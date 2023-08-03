@@ -1,0 +1,1421 @@
+2023-08-02 15:21:38.436 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:21:39.843 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:21:39.843 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:21:39.847 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:21:39.848 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:21:39.849 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:21:39.849 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:21:39.849 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:21:39.850 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:21:39.850 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:21:39.850 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:21:39.850 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:21:39.850 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:21:39.851 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:21:39.851 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:21:39.851 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:21:39.851 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:21:39.851 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:21:39.926 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:21:39.927 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:21:39.960 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:21:39.964 [main] INFO  actions.Runner - loadMethods started...
+2023-08-02 15:21:39.967 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:21:40.077 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:21:40.081 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:21:40.081 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:21:40.081 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:21:40.081 [main] INFO  actions.Runner - loadMethods completed.
+2023-08-02 15:21:40.081 [main] INFO  actions.Runner - startExecution started...
+2023-08-02 15:21:40.481 [main] INFO  core.Application - notepad is closing...
+2023-08-02 15:21:40.625 [main] INFO  core.Application - notepad is closed.
+2023-08-02 15:21:40.729 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 15:21:44.139 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 15:21:44.399 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 15:21:44.568 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 15:21:44.568 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 15:21:51.925 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 15:22:02.754 [main] ERROR actions.ElementFinder - File Name specified is pending to recover and save. Do you want to overwrite the file? not displayed within 0 s
+2023-08-02 15:22:18.517 [main] INFO  epiplex.Capture - Capture Started
+2023-08-02 15:22:30.026 [main] INFO  epiplex.Capture - Screen video started
+2023-08-02 15:22:49.388 [main] INFO  epiplex.Capture - Screen video ended
+2023-08-02 15:22:55.969 [main] INFO  epiplex.Capture - Properties window displayed: true
+2023-08-02 15:22:58.227 [main] INFO  epiplex.Capture - Capture saving completed: true
+2023-08-02 15:23:18.426 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 15:23:19.491 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 15:23:19.491 [main] INFO  epiplex.Capture - Capture process completed.
+2023-08-02 15:23:19.592 [main] INFO  core.Application - notepad is closing...
+2023-08-02 15:23:20.670 [main] INFO  core.Application - notepad is closed.
+2023-08-02 15:23:20.781 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 15:23:20.952 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 15:23:20.952 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 15:23:20.995 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 15:23:21.406 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 15:23:21.407 [main] INFO  actions.Runner - startExecution completed.
+2023-08-02 15:23:21.407 [main] INFO  actions.Runner - Close all Application started...
+2023-08-02 15:23:21.407 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 15:23:21.420 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 15:23:21.433 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 15:23:21.433 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 15:23:21.433 [main] INFO  actions.Runner - Close all Application completed.
+2023-08-02 15:39:02.848 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:39:04.232 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:39:04.232 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:39:04.235 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:39:04.236 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:39:04.236 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:39:04.237 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:39:04.237 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:39:04.237 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:39:04.237 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:39:04.237 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:39:04.238 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:39:04.238 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:39:04.238 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:39:04.238 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:39:04.239 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:39:04.239 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:39:04.239 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:39:04.315 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:39:04.316 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:39:04.347 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:39:04.351 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:39:04.353 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:39:04.467 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:39:04.485 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:39:04.485 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:39:04.485 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:39:04.485 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:40:14.971 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:40:16.360 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:40:16.360 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:40:16.363 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:40:16.364 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:40:16.364 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:40:16.364 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:40:16.364 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:40:16.364 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:40:16.365 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:40:16.365 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:40:16.365 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:40:16.365 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:40:16.366 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:40:16.366 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:40:16.366 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:40:16.366 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:40:16.366 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:40:16.438 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:40:16.438 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:40:16.465 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:40:16.468 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:40:16.470 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:40:16.581 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:40:16.599 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:40:16.599 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:40:16.599 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:40:16.599 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:41:06.344 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:41:07.720 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:41:07.720 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:41:07.724 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:41:07.724 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:41:07.724 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:41:07.724 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:41:07.724 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:41:07.725 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:41:07.725 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:41:07.725 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:41:07.725 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:41:07.726 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:41:07.799 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:41:07.800 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:41:07.823 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:41:07.825 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:41:07.827 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:41:07.941 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:41:07.959 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:41:07.959 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:41:07.960 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:41:07.960 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:43:26.505 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:43:27.897 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:43:27.897 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:43:27.900 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:43:27.900 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:43:27.901 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:43:27.901 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:43:27.901 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:43:27.902 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:43:27.902 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:43:27.902 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:43:27.902 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:43:27.903 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:43:27.903 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:43:27.903 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:43:27.903 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:43:27.903 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:43:27.904 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:43:27.974 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:43:27.974 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:43:28.012 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:43:28.015 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:43:28.018 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:43:28.118 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:43:28.135 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:43:28.135 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:43:28.135 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:43:28.135 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:43:56.833 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:43:58.200 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:43:58.200 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:43:58.203 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:43:58.204 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:43:58.204 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:43:58.204 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:43:58.204 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:43:58.204 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:43:58.205 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:43:58.205 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:43:58.205 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:43:58.205 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:43:58.205 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:43:58.206 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:43:58.206 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:43:58.206 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:43:58.206 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:43:58.278 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:43:58.279 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:43:58.308 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:43:58.310 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:43:58.313 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:43:58.422 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:43:58.439 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:43:58.439 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:43:58.440 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:43:58.440 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:45:22.640 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:45:24.015 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:45:24.015 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:45:24.019 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:45:24.019 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:45:24.019 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:45:24.020 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:45:24.020 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:45:24.020 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:45:24.020 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:45:24.020 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:45:24.021 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:45:24.021 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:45:24.021 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:45:24.021 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:45:24.022 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:45:24.022 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:45:24.022 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:45:24.095 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:45:24.095 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:45:24.126 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:45:24.143 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:45:24.144 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:45:24.247 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:45:24.267 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:45:24.268 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:45:24.268 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:45:24.268 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:55:21.137 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:55:22.520 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:55:22.521 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:55:22.524 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:55:22.524 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:55:22.525 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:55:22.525 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:55:22.525 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:55:22.525 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:55:22.526 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:55:22.526 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:55:22.526 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:55:22.526 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:55:22.527 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:55:22.527 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:55:22.527 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:55:22.528 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:55:22.528 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:55:22.606 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:55:22.606 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:55:22.639 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:55:22.651 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:55:22.654 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:55:22.768 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:55:22.786 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:55:22.787 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:55:22.787 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:55:22.787 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:56:06.093 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:56:07.471 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:56:07.471 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:56:07.475 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:56:07.475 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:56:07.475 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:56:07.475 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:56:07.475 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:56:07.476 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:56:07.476 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:56:07.476 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:56:07.476 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:56:07.477 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:56:07.477 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:56:07.477 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:56:07.477 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:56:07.477 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:56:07.478 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:56:07.558 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:56:07.559 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:56:07.589 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:56:07.601 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:56:07.603 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:56:07.710 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:56:07.727 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:56:07.727 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:56:07.728 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:56:07.728 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:57:35.940 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:57:37.327 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:57:37.327 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:57:37.331 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:57:37.331 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:57:37.331 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:57:37.331 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:57:37.332 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:57:37.332 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:57:37.332 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:57:37.332 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:57:37.333 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:57:37.333 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:57:37.333 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:57:37.333 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:57:37.333 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:57:37.334 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:57:37.334 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:57:37.403 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:57:37.403 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:57:37.426 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:57:37.441 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:57:37.443 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:57:37.554 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:57:37.571 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:57:37.571 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:57:37.571 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:57:37.571 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 15:58:44.975 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 15:58:46.363 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 15:58:46.363 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 15:58:46.366 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 15:58:46.367 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 15:58:46.367 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 15:58:46.367 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 15:58:46.367 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 15:58:46.367 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 15:58:46.368 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 15:58:46.368 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 15:58:46.368 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 15:58:46.368 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 15:58:46.369 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 15:58:46.369 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 15:58:46.369 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 15:58:46.369 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 15:58:46.369 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 15:58:46.450 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 15:58:46.450 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 15:58:46.480 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 15:58:46.495 [main] INFO  actions.Runner - validateExcelSheets started...
+2023-08-02 15:58:46.498 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 15:58:46.609 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 15:58:46.626 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 15:58:46.626 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 15:58:46.626 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 15:58:46.627 [main] INFO  actions.Runner - validateExcelSheets completed.
+2023-08-02 17:15:26.889 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 17:15:28.508 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 17:15:28.508 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 17:15:28.514 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 17:15:28.515 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 17:15:28.515 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 17:15:28.515 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 17:15:28.515 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 17:15:28.515 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 17:15:28.516 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 17:15:28.516 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 17:15:28.516 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 17:15:28.516 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 17:15:28.516 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 17:15:28.517 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 17:15:28.517 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 17:15:28.517 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 17:15:28.517 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 17:15:28.622 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 17:15:28.622 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 17:15:28.646 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 17:15:28.662 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 17:15:28.667 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 17:15:28.838 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 17:15:28.842 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 17:15:28.842 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 17:15:28.842 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 17:15:28.842 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 17:15:28.843 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 17:15:29.204 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:15:29.343 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:15:29.452 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 17:15:32.979 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 17:15:33.282 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 17:15:33.441 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 17:15:33.441 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 17:15:35.602 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 17:15:46.955 [main] ERROR actions.ElementFinder - File Name specified is pending to recover and save. Do you want to overwrite the file? not displayed within 0 s
+2023-08-02 17:16:06.456 [main] INFO  epiplex.Capture - Capture Started
+2023-08-02 17:16:19.058 [main] INFO  epiplex.Capture - Screen video started
+2023-08-02 17:16:40.207 [main] INFO  epiplex.Capture - Screen video ended
+2023-08-02 17:16:47.751 [main] INFO  epiplex.Capture - Properties window displayed: true
+2023-08-02 17:16:50.354 [main] INFO  epiplex.Capture - Capture saving completed: true
+2023-08-02 17:17:12.425 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 17:17:13.540 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 17:17:13.541 [main] INFO  epiplex.Capture - Capture process completed.
+2023-08-02 17:17:13.651 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:17:14.816 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:17:14.919 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:17:15.203 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:17:15.203 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:17:15.247 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:17:15.755 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 17:17:15.755 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 17:17:15.755 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 17:17:15.755 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 17:17:15.769 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 17:17:15.781 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 17:17:15.781 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 17:17:15.782 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 17:18:30.206 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 17:18:31.719 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 17:18:31.719 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 17:18:31.726 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 17:18:31.728 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 17:18:31.728 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 17:18:31.729 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 17:18:31.729 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 17:18:31.730 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 17:18:31.730 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 17:18:31.730 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 17:18:31.731 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 17:18:31.731 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 17:18:31.732 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 17:18:31.732 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 17:18:31.732 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 17:18:31.732 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 17:18:31.733 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 17:18:31.855 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 17:18:31.856 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 17:18:31.900 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 17:18:31.919 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 17:18:31.922 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 17:18:32.075 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 17:18:32.081 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 17:18:32.082 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 17:18:32.082 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 17:18:32.082 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 17:18:32.082 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 17:18:32.549 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:18:32.827 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:18:32.935 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 17:18:36.805 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 17:18:37.214 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 17:18:37.774 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 17:18:37.775 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 17:18:37.819 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 17:18:46.700 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 17:18:46.936 [main] ERROR epiplex.PerformanceUtils - notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+2023-08-02 17:18:46.937 [main] ERROR actions.MainRunner - Error executing method: startCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1339) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:104) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at actions.ActionMethods.focusWindow(ActionMethods.java:686) ~[classes/:?]
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:64) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+2023-08-02 17:19:00.160 [main] ERROR epiplex.Capture - An error occurred while performing the action: Start Screen Video
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.Capture.addCaptureAction(Capture.java:569) [classes/:?]
+	at epiplex.Capture.addScreenVideo(Capture.java:648) [classes/:?]
+	at actions.ActionMethods.addScreenVideo(ActionMethods.java:1461) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+2023-08-02 17:19:26.974 [main] ERROR epiplex.Capture - An error occurred while performing the action: Stop Screen Video
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.Capture.stopCaptureAction(Capture.java:612) [classes/:?]
+	at epiplex.Capture.stopScreenVideo(Capture.java:670) [classes/:?]
+	at actions.ActionMethods.stopScreenVideo(ActionMethods.java:1479) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+2023-08-02 17:19:27.077 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 17:19:33.375 [main] ERROR actions.MainRunner - Error executing method: saveCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest - Untitled - Notepad - 500 - name - MENUITEM - Help - name - MENUITEM - About Notepad - About Notepad - name - HYPERLINK - Microsoft Software License Terms - name - BUTTON - OK - About Notepad - name - BUTTON - OK - Untitled - Notepad - name - MENUITEM - File - partialName - MENUITEM - Page Setup - Page Setup - name - COMBOBOX - Size: - name - LISTITEM - Letter - name - RADIOBUTTON - Landscape - name - EDIT - Header: - hey - name - BUTTON - Cancel - Untitled - Notepad - name - MENUITEM - Edit - id - MENUITEM - 23 - Replace - name - CHECKBOX - Match case - name - BUTTON - Cancel
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1555) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.PerformanceUtils.clickAndWait(PerformanceUtils.java:42) ~[classes/:?]
+	at epiplex.PerformanceUtils.saveCapture(PerformanceUtils.java:162) ~[classes/:?]
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1551) ~[classes/:?]
+	... 9 more
+2023-08-02 17:19:33.482 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:19:34.635 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:19:34.748 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:19:35.276 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:19:35.276 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:19:35.400 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:19:36.324 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 17:19:36.325 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 17:19:36.326 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 17:19:36.326 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 17:19:36.364 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 17:19:37.527 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 17:19:37.528 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 17:19:37.528 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 17:22:50.008 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 17:22:51.521 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 17:22:51.521 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 17:22:51.529 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 17:22:51.530 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 17:22:51.531 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 17:22:51.531 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 17:22:51.531 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 17:22:51.532 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 17:22:51.532 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 17:22:51.532 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 17:22:51.533 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 17:22:51.533 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 17:22:51.533 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 17:22:51.534 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 17:22:51.534 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 17:22:51.534 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 17:22:51.534 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 17:22:51.664 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 17:22:51.664 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 17:22:51.695 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 17:22:51.713 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 17:22:51.716 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 17:22:51.863 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation started...
+2023-08-02 17:22:51.908 [main] INFO  utils.ExecutionUtils - Notepad Test Sheet Step validation Ended
+2023-08-02 17:22:51.909 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 17:22:51.909 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 17:22:51.909 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 17:22:52.336 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:22:52.456 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:22:52.567 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 17:22:56.560 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 17:22:56.972 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 17:22:57.039 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 17:22:57.040 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 17:22:57.669 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 17:22:57.670 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 17:22:57.713 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 17:23:06.577 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 17:23:06.807 [main] ERROR epiplex.PerformanceUtils - notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+2023-08-02 17:23:06.809 [main] ERROR actions.MainRunner - Error executing method: startCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1339) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:105) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.info(com.aventstack.extentreports.markuputils.Markup)" because "this.reportLogger" is null
+	at actions.ActionMethods.focusWindow(ActionMethods.java:686) ~[classes/:?]
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:65) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+2023-08-02 17:23:19.458 [main] ERROR epiplex.Capture - An error occurred while performing the action: Start Screen Video
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.Capture.addCaptureAction(Capture.java:569) [classes/:?]
+	at epiplex.Capture.addScreenVideo(Capture.java:648) [classes/:?]
+	at actions.ActionMethods.addScreenVideo(ActionMethods.java:1461) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+2023-08-02 17:23:45.114 [main] ERROR epiplex.Capture - An error occurred while performing the action: Stop Screen Video
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.Capture.stopCaptureAction(Capture.java:612) [classes/:?]
+	at epiplex.Capture.stopScreenVideo(Capture.java:670) [classes/:?]
+	at actions.ActionMethods.stopScreenVideo(ActionMethods.java:1479) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+2023-08-02 17:23:45.229 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 17:23:51.099 [main] ERROR actions.MainRunner - Error executing method: saveCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest - Untitled - Notepad - 500 - name - MENUITEM - Help - name - MENUITEM - About Notepad - About Notepad - name - HYPERLINK - Microsoft Software License Terms - name - BUTTON - OK - About Notepad - name - BUTTON - OK - Untitled - Notepad - name - MENUITEM - File - partialName - MENUITEM - Page Setup - Page Setup - name - COMBOBOX - Size: - name - LISTITEM - Letter - name - RADIOBUTTON - Landscape - name - EDIT - Header: - hey - name - BUTTON - Cancel - Untitled - Notepad - name - MENUITEM - Edit - id - MENUITEM - 23 - Replace - name - CHECKBOX - Match case - name - BUTTON - Cancel
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1555) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.PerformanceUtils.clickAndWait(PerformanceUtils.java:42) ~[classes/:?]
+	at epiplex.PerformanceUtils.saveCapture(PerformanceUtils.java:163) ~[classes/:?]
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1551) ~[classes/:?]
+	... 9 more
+2023-08-02 17:23:51.203 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:23:52.354 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:23:52.469 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:23:52.897 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:23:52.898 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:23:53.018 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:23:53.911 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 17:23:53.912 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 17:23:53.913 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 17:23:53.913 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 17:23:53.949 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 17:23:55.096 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 17:23:55.096 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 17:23:55.097 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 17:27:02.733 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 17:27:04.270 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 17:27:04.270 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 17:27:04.278 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 17:27:04.279 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 17:27:04.280 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 17:27:04.280 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 17:27:04.280 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 17:27:04.280 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 17:27:04.281 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 17:27:04.281 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 17:27:04.281 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 17:27:04.282 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 17:27:04.282 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 17:27:04.282 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 17:27:04.282 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 17:27:04.283 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 17:27:04.283 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 17:27:04.390 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 17:27:04.390 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 17:27:04.423 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 17:27:04.444 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 17:27:04.447 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 17:27:04.626 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 17:27:04.631 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 17:27:04.631 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 17:27:04.631 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 17:27:04.631 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 17:27:04.632 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 17:27:05.127 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:27:05.386 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:27:05.501 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 17:27:09.394 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 17:27:09.809 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 17:27:09.879 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 17:27:09.879 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 17:27:10.411 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 17:27:10.412 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 17:27:10.458 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 17:27:19.284 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 17:27:51.256 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - started...
+2023-08-02 17:27:57.710 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 17:28:21.121 [main] ERROR actions.ElementFinder - Saving capture file not vanished within 3 s
+2023-08-02 17:28:37.263 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 17:28:38.388 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 17:28:38.389 [main] INFO  epiplex.PerformanceUtils - Capture save completed.
+2023-08-02 17:28:38.500 [main] INFO  core.Application - notepad is closing...
+2023-08-02 17:28:39.627 [main] INFO  core.Application - notepad is closed.
+2023-08-02 17:28:39.737 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:28:39.975 [main] INFO  utils.XML_Library - transform-GPS completed
+2023-08-02 17:28:39.975 [main] INFO  utils.XML_Library - transformGPS started
+2023-08-02 17:28:39.998 [main] ERROR utils.XML_Library - Transform-GPS TransformerException: javax.xml.transform.TransformerException: com.sun.org.apache.xml.internal.utils.WrappedRuntimeException: Content is not allowed in prolog.
+2023-08-02 17:28:40.383 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 17:28:40.383 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 17:28:40.383 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 17:28:40.383 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 17:28:40.396 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 17:28:40.410 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 17:28:40.410 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 17:28:40.410 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 17:37:47.214 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\Report\Test.xlsx - file generated with sheetTest created successfully
+2023-08-02 18:42:17.234 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 18:42:17.241 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 18:42:17.243 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 18:42:17.243 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 18:42:17.243 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 18:42:17.243 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 18:42:17.244 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 18:42:17.244 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 18:42:17.244 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 18:42:17.245 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 18:42:17.246 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Created Successfully
+2023-08-02 18:42:17.246 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 18:42:17.246 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 18:42:17.246 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 18:42:17.246 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 18:42:18.048 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet workbooks created successfully
+2023-08-02 18:42:18.079 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet Apps created successfully
+2023-08-02 18:42:18.110 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings created successfully
+2023-08-02 18:42:18.214 [main] ERROR utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data add failed
+java.lang.ArrayIndexOutOfBoundsException: Index 14 out of bounds for length 14
+	at utils.ExcelLibrary.writeDataToExcel(ExcelLibrary.java:353) [classes/:?]
+	at utils.ProjectSetupManager.createMainSheet(ProjectSetupManager.java:111) [classes/:?]
+	at utils.ProjectSetupManager.createFolderStructure(ProjectSetupManager.java:74) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:71) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+2023-08-02 18:42:18.236 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 20:39:00.265 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 20:39:00.270 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 20:39:00.277 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 20:39:00.278 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 20:39:00.278 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 20:39:00.278 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 20:39:00.278 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 20:39:00.279 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 20:39:00.279 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 20:39:00.279 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 20:39:00.279 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 20:39:00.280 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 20:39:00.280 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 20:39:00.280 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 20:39:00.281 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 20:39:00.281 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 20:41:06.756 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 20:41:06.759 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 20:41:06.763 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 20:41:06.763 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 20:41:06.764 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 20:41:06.764 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 20:41:06.764 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 20:41:06.764 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 20:41:06.764 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 20:41:06.765 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 20:41:06.765 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 20:41:06.765 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 20:41:06.766 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 20:41:06.767 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 20:41:06.767 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 20:41:06.767 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 20:41:07.331 [main] ERROR utils.ExcelLibrary - Exception in getWorkbook: ExcelHolder\main.xlsx (The system cannot find the file specified)
+2023-08-02 20:41:09.010 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet workbooks created successfully
+2023-08-02 20:41:09.155 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet Apps created successfully
+2023-08-02 20:41:09.197 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings created successfully
+2023-08-02 20:41:09.256 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 20:42:50.949 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 20:42:50.953 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 20:42:50.956 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 20:42:50.957 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 20:42:50.957 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 20:42:50.957 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 20:42:50.958 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 20:42:50.958 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 20:42:50.958 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 20:42:50.958 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 20:42:50.959 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 20:42:50.959 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 20:42:50.959 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 20:42:50.960 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 20:42:50.960 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 20:42:50.960 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 20:42:51.261 [main] ERROR utils.ExcelLibrary - Exception in getWorkbook: ExcelHolder\main.xlsx (The system cannot find the file specified)
+2023-08-02 20:42:51.751 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet workbooks created successfully
+2023-08-02 20:42:51.858 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet Apps created successfully
+2023-08-02 20:42:51.894 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings created successfully
+2023-08-02 20:42:51.951 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 20:59:51.600 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 20:59:51.604 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 20:59:51.607 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 20:59:51.608 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 20:59:51.608 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 20:59:51.608 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 20:59:51.609 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 20:59:51.609 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 20:59:51.609 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 20:59:51.609 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 20:59:51.610 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 20:59:51.610 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 20:59:51.610 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 20:59:51.611 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 20:59:51.611 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 20:59:51.611 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 20:59:52.289 [main] ERROR utils.ExcelLibrary - Exception in getWorkbook: ExcelHolder\main.xlsx (The system cannot find the file specified)
+2023-08-02 20:59:52.428 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file  created successfully
+2023-08-02 21:02:14.565 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:02:14.569 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:02:14.573 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:02:14.573 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:02:14.573 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:02:14.573 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:02:14.574 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:02:14.574 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:02:14.574 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:02:14.575 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:02:14.575 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:02:14.575 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:02:14.576 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:02:14.576 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:02:14.576 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:02:14.576 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:02:15.233 [main] ERROR utils.ExcelLibrary - Exception in getWorkbook: ExcelHolder\main.xlsx (The system cannot find the file specified)
+2023-08-02 21:02:15.386 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file  created successfully
+2023-08-02 21:03:45.632 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:03:45.636 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:03:45.640 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:03:45.641 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:03:45.641 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:03:45.641 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:03:45.641 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:03:45.642 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:03:45.642 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:03:45.642 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:03:45.643 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:03:45.643 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:03:45.643 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:03:45.644 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:03:45.644 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:03:45.644 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:03:46.463 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file  created successfully
+2023-08-02 21:03:46.594 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 21:06:52.784 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:06:52.787 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:06:52.791 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:06:52.792 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:06:52.792 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:06:52.793 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:06:52.793 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:06:52.793 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:06:52.793 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:06:52.793 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:06:52.794 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:06:52.794 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:06:52.794 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:06:52.795 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:06:52.795 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:06:52.795 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:08:51.609 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:08:51.614 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:08:51.618 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:08:51.619 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:08:51.619 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:08:51.619 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:08:51.620 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:08:51.620 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:08:51.621 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:08:51.621 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:08:51.621 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:08:51.621 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:08:51.621 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:08:51.622 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:08:51.622 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:08:51.622 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:08:52.431 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file  created successfully
+2023-08-02 21:08:52.561 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 21:11:56.584 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:11:56.588 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:11:56.592 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:11:56.592 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:11:56.593 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:11:56.593 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:11:56.593 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:11:56.593 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:11:56.594 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:11:56.594 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:11:56.594 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:11:56.594 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:11:56.595 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:11:56.595 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:11:56.595 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:11:56.596 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:11:57.410 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file  created successfully
+2023-08-02 21:11:57.549 [main] INFO  utils.ExcelLibrary - ExcelHolder\main.xlsx - file generated with sheet settings data added successfully
+2023-08-02 21:19:11.568 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 21:19:11.574 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:19:11.578 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:19:11.579 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:19:11.579 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:19:11.579 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:19:11.580 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:19:11.580 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:19:11.581 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:19:11.581 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:19:11.581 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:19:11.582 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:19:11.582 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:19:11.583 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:19:11.583 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:19:11.583 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:29:15.682 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 21:29:16.911 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 21:29:16.911 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 21:29:16.916 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 21:29:16.917 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 21:29:16.918 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 21:29:16.918 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 21:29:16.918 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 21:29:16.918 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 21:29:16.919 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 21:29:16.919 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 21:29:17.057 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 21:29:17.058 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 21:29:17.136 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 21:29:17.625 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 21:29:17.630 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 21:29:17.930 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 21:29:17.936 [main] ERROR utils.ExcelLibrary - Exception in writeWorkbook: D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls (The process cannot access the file because it is being used by another process)
+2023-08-02 21:29:17.936 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls - file  created successfully
+2023-08-02 21:29:17.936 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 21:29:17.936 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 21:29:17.936 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 21:29:17.937 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 21:29:18.314 [main] INFO  core.Application - notepad is closing...
+2023-08-02 21:29:18.559 [main] INFO  core.Application - notepad is closed.
+2023-08-02 21:29:18.671 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 21:29:22.628 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 21:29:23.023 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 21:29:23.070 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 21:29:23.070 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 21:29:23.633 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 21:29:23.633 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 21:29:23.655 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 21:29:32.524 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 21:30:03.672 [main] ERROR epiplex.PerformanceUtils - notepadTest Capture - error. The workbook already contains a sheet of this name
+2023-08-02 21:30:03.673 [main] ERROR actions.MainRunner - Error executing method: startCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.RuntimeException: notepadTest Capture - error. The workbook already contains a sheet of this name
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1339) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.RuntimeException: notepadTest Capture - error. The workbook already contains a sheet of this name
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:105) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:721) ~[poi-ooxml-3.11.jar:3.11]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:106) ~[poi-ooxml-3.11.jar:3.11]
+	at utils.ExcelLibrary.createExcelWithSheetAndHeader(ExcelLibrary.java:287) ~[classes/:?]
+	at utils.Timer.writeExcelPerformance(Timer.java:89) ~[classes/:?]
+	at utils.Timer.stopTimer(Timer.java:71) ~[classes/:?]
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:100) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+2023-08-02 21:30:09.755 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 21:30:28.304 [main] ERROR actions.ElementFinder - Saving capture file not vanished within 3 s
+2023-08-02 21:30:28.305 [main] ERROR actions.MainRunner - Error executing method: saveCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest - Untitled - Notepad - 500 - name - MENUITEM - Help - name - MENUITEM - About Notepad - About Notepad - name - HYPERLINK - Microsoft Software License Terms - name - BUTTON - OK - About Notepad - name - BUTTON - OK - Untitled - Notepad
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1555) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:721) ~[poi-ooxml-3.11.jar:3.11]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:106) ~[poi-ooxml-3.11.jar:3.11]
+	at utils.ExcelLibrary.createExcelWithSheetAndHeader(ExcelLibrary.java:287) ~[classes/:?]
+	at utils.Timer.writeExcelPerformance(Timer.java:89) ~[classes/:?]
+	at utils.Timer.stopTimer(Timer.java:71) ~[classes/:?]
+	at epiplex.PerformanceUtils.saveCapture(PerformanceUtils.java:177) ~[classes/:?]
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1551) ~[classes/:?]
+	... 9 more
+2023-08-02 21:30:28.416 [main] INFO  core.Application - notepad is closing...
+2023-08-02 21:30:29.509 [main] INFO  core.Application - notepad is closed.
+2023-08-02 21:30:30.062 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 21:30:30.063 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 21:30:30.063 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 21:30:30.063 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 21:30:30.089 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 21:30:35.314 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 21:30:35.315 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 21:30:35.315 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 21:35:41.958 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 21:35:43.133 [main] ERROR utils.ExecutionUtils - Error while reading the workbook: For input string: "Add Value"
+2023-08-02 21:35:43.133 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 21:35:43.134 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 22:07:22.550 [main] ERROR utils.ProjectConfiguration - ExcelHolder Files Missing
+2023-08-02 22:07:22.555 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 22:07:22.561 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 22:07:22.561 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 22:07:22.561 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 22:07:22.562 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 22:07:22.562 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 22:07:22.562 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 22:07:22.562 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 22:07:22.563 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 22:07:22.563 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 22:07:22.563 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 22:07:22.564 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 22:07:22.564 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 22:07:22.564 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 22:07:22.564 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 22:08:49.466 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 22:08:50.807 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 22:08:50.807 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 22:08:50.810 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 22:08:50.811 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 22:08:50.811 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 22:08:50.811 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 22:08:50.811 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 22:08:50.812 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 22:08:50.812 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 22:08:50.812 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 22:08:50.813 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 22:08:50.813 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 22:08:50.813 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 22:08:50.814 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 22:08:50.814 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 22:08:50.814 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 22:08:50.814 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 22:08:51.026 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 22:08:51.026 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 22:08:51.066 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 22:08:51.083 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 22:08:51.087 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 22:08:51.349 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 22:08:51.388 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls - file  created successfully
+2023-08-02 22:08:51.388 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 22:08:51.388 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 22:08:51.388 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 22:08:51.388 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 22:08:51.807 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:08:52.107 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:08:52.223 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 22:08:56.281 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 22:08:56.678 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:08:56.718 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:08:56.718 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 22:08:57.357 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 22:08:57.358 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 22:08:57.399 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 22:09:06.328 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 22:09:38.523 [main] ERROR epiplex.PerformanceUtils - notepadTest Capture - error. The workbook already contains a sheet of this name
+2023-08-02 22:09:38.524 [main] ERROR actions.MainRunner - Error executing method: startCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.RuntimeException: notepadTest Capture - error. The workbook already contains a sheet of this name
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1339) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.RuntimeException: notepadTest Capture - error. The workbook already contains a sheet of this name
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:105) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:721) ~[poi-ooxml-3.11.jar:3.11]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:106) ~[poi-ooxml-3.11.jar:3.11]
+	at utils.ExcelLibrary.createExcelWithSheetAndHeader(ExcelLibrary.java:288) ~[classes/:?]
+	at utils.Timer.writeExcelPerformance(Timer.java:89) ~[classes/:?]
+	at utils.Timer.stopTimer(Timer.java:71) ~[classes/:?]
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:100) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+2023-08-02 22:09:45.003 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 22:10:04.576 [main] ERROR actions.ElementFinder - Saving capture file not vanished within 3 s
+2023-08-02 22:10:04.576 [main] ERROR actions.MainRunner - Error executing method: saveCapturePerformance -  - Capture Test Notepad - SCREEN VIDEO - notepad - notepad - Untitled - Notepad - notepadTest - Untitled - Notepad - 500 - name - MENUITEM - Help - name - MENUITEM - About Notepad - About Notepad - name - HYPERLINK - Microsoft Software License Terms - name - BUTTON - OK - About Notepad - name - BUTTON - OK - Untitled - Notepad
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:271) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:235) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1555) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IllegalArgumentException: The workbook already contains a sheet of this name
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:721) ~[poi-ooxml-3.11.jar:3.11]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.createSheet(XSSFWorkbook.java:106) ~[poi-ooxml-3.11.jar:3.11]
+	at utils.ExcelLibrary.createExcelWithSheetAndHeader(ExcelLibrary.java:288) ~[classes/:?]
+	at utils.Timer.writeExcelPerformance(Timer.java:89) ~[classes/:?]
+	at utils.Timer.stopTimer(Timer.java:71) ~[classes/:?]
+	at epiplex.PerformanceUtils.saveCapture(PerformanceUtils.java:177) ~[classes/:?]
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1551) ~[classes/:?]
+	... 9 more
+2023-08-02 22:10:04.684 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:10:05.774 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:10:06.382 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 22:10:06.383 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 22:10:06.383 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 22:10:06.383 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 22:10:06.411 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 22:10:11.666 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 22:10:11.667 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 22:10:11.667 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 22:38:31.201 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:38:31.769 [main] ERROR utils.ProjectConfiguration - Exception while creating Report\Automation_Report.html\Performance_Report.xlsxReport\Automation_Report.html\Performance_Report.xlsx (The system cannot find the path specified)
+2023-08-02 22:38:31.769 [main] INFO  utils.ProjectConfiguration - Report\Automation_Report.html\Performance_Report.xlsx created successfully
+2023-08-02 22:38:31.771 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 22:38:33.040 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 22:38:33.041 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 22:38:33.052 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 22:38:33.053 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 22:38:33.054 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 22:38:33.054 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 22:38:33.054 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 22:38:33.054 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 22:38:33.055 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 22:38:33.056 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 22:38:33.056 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 22:38:33.057 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 22:38:33.057 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 22:38:33.058 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 22:38:33.058 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 22:38:33.059 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 22:38:33.059 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 22:38:33.250 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 22:38:33.250 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 22:38:33.305 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 22:38:33.327 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:38:33.349 [main] ERROR utils.ProjectConfiguration - Exception while creating Report\Automation_Report.html\Performance_Report.xlsxReport\Automation_Report.html\Performance_Report.xlsx (The system cannot find the path specified)
+2023-08-02 22:38:33.350 [main] INFO  utils.ProjectConfiguration - Report\Automation_Report.html\Performance_Report.xlsx created successfully
+2023-08-02 22:38:33.351 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 22:38:33.363 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 22:38:33.728 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 22:38:33.901 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls - file  created successfully
+2023-08-02 22:38:33.902 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 22:38:33.902 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 22:38:33.903 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 22:38:33.904 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 22:38:34.435 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:38:34.769 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:38:34.873 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 22:38:38.833 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 22:38:39.230 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:38:39.278 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:38:39.278 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 22:38:39.895 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 22:38:39.896 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 22:38:39.940 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 22:38:48.873 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 22:38:49.096 [main] ERROR utils.ExcelLibrary - Exception in getWorkbook: Report\Automation_Report.html\Performance_Report.xlsx (The system cannot find the path specified)
+2023-08-02 22:38:49.097 [main] ERROR epiplex.PerformanceUtils - notepadTest Capture - error. Cannot invoke "org.apache.poi.ss.usermodel.Workbook.getSheet(String)" because "workbook" is null
+2023-08-02 22:38:49.098 [main] ERROR actions.MainRunner - Error executing method: startCapturePerformance -  - notepadTest
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:272) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:236) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "org.apache.poi.ss.usermodel.Workbook.getSheet(String)" because "workbook" is null
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1339) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.RuntimeException: notepadTest Capture - error. Cannot invoke "org.apache.poi.ss.usermodel.Workbook.getSheet(String)" because "workbook" is null
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:105) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Workbook.getSheet(String)" because "workbook" is null
+	at utils.Timer.writeExcelPerformance(Timer.java:95) ~[classes/:?]
+	at utils.Timer.stopTimer(Timer.java:71) ~[classes/:?]
+	at epiplex.PerformanceUtils.startCapture(PerformanceUtils.java:66) ~[classes/:?]
+	at actions.ActionMethods.startCapturePerformance(ActionMethods.java:1335) ~[classes/:?]
+	... 9 more
+2023-08-02 22:38:54.640 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 22:38:59.902 [main] ERROR actions.MainRunner - Error executing method: saveCapturePerformance - 
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at actions.MainRunner.invoker(MainRunner.java:272) [classes/:?]
+	at actions.MainRunner.startExecution(MainRunner.java:236) [classes/:?]
+	at actions.MainRunner.executeTests(MainRunner.java:145) [classes/:?]
+	at actions.MainRunner.run(MainRunner.java:88) [classes/:?]
+	at actions.MainRunner.main(MainRunner.java:39) [classes/:?]
+Caused by: java.lang.RuntimeException: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1555) ~[classes/:?]
+	... 9 more
+Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:359) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at core.Driver.findElement(Driver.java:311) ~[classes/:?]
+	at actions.ElementFinder.display(ElementFinder.java:424) ~[classes/:?]
+	at actions.ElementFinder.waitToDisplay(ElementFinder.java:324) ~[classes/:?]
+	at epiplex.PerformanceUtils.clickAndWait(PerformanceUtils.java:42) ~[classes/:?]
+	at epiplex.PerformanceUtils.saveCapture(PerformanceUtils.java:163) ~[classes/:?]
+	at actions.ActionMethods.saveCapturePerformance(ActionMethods.java:1551) ~[classes/:?]
+	... 9 more
+2023-08-02 22:39:00.010 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:39:01.166 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:39:01.951 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 22:39:01.952 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 22:39:01.952 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 22:39:01.952 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 22:39:01.992 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 22:39:03.122 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 22:39:03.122 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 22:39:03.123 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 22:44:02.504 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:44:03.344 [main] INFO  utils.ProjectConfiguration - Report\Performance_Report.xlsx created successfully
+2023-08-02 22:44:03.352 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 22:44:04.717 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 22:44:04.718 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 22:44:04.736 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 22:44:04.738 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 22:44:04.738 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 22:44:04.738 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 22:44:04.739 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 22:44:04.741 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 22:44:04.742 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 22:44:04.743 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 22:44:04.745 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 22:44:04.747 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 22:44:04.748 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 22:44:04.749 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 22:44:04.751 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 22:44:04.751 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 22:44:04.752 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 22:44:04.942 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 22:44:04.942 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 22:44:05.004 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 22:44:05.032 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:44:05.036 [main] INFO  utils.ProjectConfiguration - Report\Performance_Report.xlsx created successfully
+2023-08-02 22:44:05.037 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 22:44:05.042 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 22:44:05.392 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 22:44:05.551 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls - file  created successfully
+2023-08-02 22:44:05.551 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 22:44:05.552 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 22:44:05.552 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 22:44:05.553 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 22:44:05.896 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:44:06.182 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:44:06.285 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 22:44:10.274 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 22:44:10.662 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:44:10.705 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:44:10.706 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 22:44:11.338 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 22:44:11.338 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 22:44:11.364 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 22:44:20.192 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 22:44:54.408 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - started...
+2023-08-02 22:45:00.949 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 22:45:47.358 [main] ERROR actions.ElementFinder - Saving capture file not displayed within 0 s
+2023-08-02 22:45:49.213 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:45:50.480 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:45:50.480 [main] INFO  epiplex.PerformanceUtils - Capture save completed.
+2023-08-02 22:45:50.587 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:45:51.718 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:45:52.216 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 22:45:52.216 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 22:45:52.217 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 22:45:52.217 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 22:45:52.248 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 22:45:52.268 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 22:45:52.269 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 22:45:52.269 [main] INFO  actions.MainRunner - Close all Application completed.
+2023-08-02 22:51:23.994 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:51:24.006 [main] INFO  utils.ProjectConfiguration - Report\Performance_Report.xlsx created successfully
+2023-08-02 22:51:24.009 [main] INFO  utils.ExecutionUtils - loadSettings started
+2023-08-02 22:51:25.451 [main] INFO  utils.ExecutionUtils - loadSettings completed
+2023-08-02 22:51:25.452 [main] INFO  utils.ProjectConfiguration - CleanFolders Started
+2023-08-02 22:51:25.464 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Cleaned Successfully
+2023-08-02 22:51:25.466 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Cleaned Successfully
+2023-08-02 22:51:25.466 [main] INFO  utils.ProjectConfiguration - CleanFolders Completed
+2023-08-02 22:51:25.467 [main] INFO  utils.ProjectConfiguration - Folders Creation Started
+2023-08-02 22:51:25.468 [main] INFO  utils.ProjectConfiguration - Logs Folder Already Exists
+2023-08-02 22:51:25.469 [main] INFO  utils.ProjectConfiguration - Report Folder Already Exists
+2023-08-02 22:51:25.470 [main] INFO  utils.ProjectConfiguration - Capture Images Folder Already Exists
+2023-08-02 22:51:25.471 [main] INFO  utils.ProjectConfiguration - Screenshots Folder Already Exists
+2023-08-02 22:51:25.472 [main] INFO  utils.ProjectConfiguration - Sikuli-Images Folder Already Exists
+2023-08-02 22:51:25.473 [main] INFO  utils.ProjectConfiguration - ExcelHolder Folder Already Exists
+2023-08-02 22:51:25.474 [main] INFO  utils.ProjectConfiguration - TransformedGPS Folder Already Exists
+2023-08-02 22:51:25.475 [main] INFO  utils.ProjectConfiguration - Base-Files Folder Already Exists
+2023-08-02 22:51:25.476 [main] INFO  utils.ProjectConfiguration - config Folder Already Exists
+2023-08-02 22:51:25.476 [main] INFO  utils.ProjectConfiguration - Folders Creation Completed
+2023-08-02 22:51:25.477 [main] INFO  utils.ProjectConfiguration - Report Setup Started
+2023-08-02 22:51:25.805 [main] INFO  utils.ProjectConfiguration - Report Setup Completed
+2023-08-02 22:51:25.806 [main] INFO  utils.ExecutionUtils - Get execution sheets started
+2023-08-02 22:51:25.879 [main] INFO  utils.ExecutionUtils - Get execution sheets completed
+2023-08-02 22:51:25.914 [main] INFO  utils.ProjectConfiguration - main.xlsx: created successfully
+2023-08-02 22:51:25.918 [main] INFO  utils.ProjectConfiguration - Report\Performance_Report.xlsx created successfully
+2023-08-02 22:51:25.919 [main] INFO  actions.MainRunner - loadMethods started...
+2023-08-02 22:51:25.930 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File check started...
+2023-08-02 22:51:26.316 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation started...
+2023-08-02 22:51:26.461 [main] INFO  utils.ExcelLibrary - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls - file  created successfully
+2023-08-02 22:51:26.461 [main] INFO  utils.ExecutionUtils - Sheet2 Sheet Step validation Ended
+2023-08-02 22:51:26.462 [main] INFO  utils.ExecutionUtils - D:\Selenium Workspace\Epi\Automation-Framework\NewTestcases\2_Capture Test.xls Excel File Check ended
+2023-08-02 22:51:26.462 [main] INFO  actions.MainRunner - loadMethods completed.
+2023-08-02 22:51:26.463 [main] INFO  actions.MainRunner - startExecution started...
+2023-08-02 22:51:27.004 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:51:27.352 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:51:27.456 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launching...
+2023-08-02 22:51:31.475 [main] INFO  core.Application - C:\\WINDOWS\\SYSTEM32\\notepad.exe is launched
+2023-08-02 22:51:31.885 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:51:31.940 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:51:31.941 [main] INFO  utils.XML_Library - Automation settings updation started
+2023-08-02 22:51:32.544 [main] INFO  utils.XML_Library - Automation settings updation completed
+2023-08-02 22:51:32.544 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - initializing...
+2023-08-02 22:51:32.586 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launching...
+2023-08-02 22:51:41.302 [main] INFO  core.Application - D:\\Media\\epiplex\\BIN\\epiplex.exe is launched
+2023-08-02 22:52:16.443 [main] INFO  epiplex.PerformanceUtils - notepadTest Capture - started...
+2023-08-02 22:52:23.083 [main] INFO  epiplex.PerformanceUtils - Capture save initializing...
+2023-08-02 22:53:06.100 [main] ERROR actions.ElementFinder - Saving capture file not displayed within 0 s
+2023-08-02 22:53:09.850 [main] INFO  core.Application - Epiplex is closing...
+2023-08-02 22:53:11.119 [main] INFO  core.Application - Epiplex is closed.
+2023-08-02 22:53:11.119 [main] INFO  epiplex.PerformanceUtils - Capture save completed.
+2023-08-02 22:53:11.225 [main] INFO  core.Application - notepad is closing...
+2023-08-02 22:53:12.356 [main] INFO  core.Application - notepad is closed.
+2023-08-02 22:53:12.996 [main] INFO  utils.ProjectConfiguration - Report Logging Closed
+2023-08-02 22:53:12.996 [main] INFO  actions.MainRunner - startExecution completed.
+2023-08-02 22:53:12.997 [main] INFO  actions.MainRunner - Close all Application started...
+2023-08-02 22:53:12.997 [main] INFO  core.Application - closeAllApps is started...
+2023-08-02 22:53:13.030 [main] INFO  core.Application - Application with path C:\\WINDOWS\\SYSTEM32\\notepad.exe is closed.
+2023-08-02 22:53:13.059 [main] INFO  core.Application - Application with path D:\\Media\\epiplex\\BIN\\epiplex.exe is closed.
+2023-08-02 22:53:13.060 [main] INFO  core.Application - closeAllApps is completed...
+2023-08-02 22:53:13.060 [main] INFO  actions.MainRunner - Close all Application completed.

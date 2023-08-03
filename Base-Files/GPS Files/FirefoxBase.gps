@@ -1,0 +1,2183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WorkFlow Version="11.2" OldVersion="11.2" Author="dhanush" Organization="" Description="" Copyright="" Generator="Perpetual" Title="" UserName="dhanush" MachineName="EPNCL087" KeyWords="" isEncryptionEnabled="false" Secured="0" Reviewed="0">
+  <Header IsNoiseFilterApplied="1" IsTobeReviewedApplied="1" IsAudioCorrected="1">
+    <Summary CICSeqID="0" AVSeqID="0" ImgSeqID="1" ImgConverted="0" ImgFilePath="D:\Media\Repository\Capture\FirefoxTest_files\Images" CICFilePath="D:\Media\Repository\Capture\FirefoxTest_files\AudioVideo" GPSID="8c96bddc-59fc-453f-87d3-91b5d15e2cd9" UniqueID="15">
+      <ProcessName>FirefoxTest.gps</ProcessName>
+      <CapDepFolder>FirefoxTest_files</CapDepFolder>
+      <ProcessList>
+      </ProcessList>
+      <BookMark>0</BookMark>
+      <Version Processor="Processor11.2" PBD="11.2" />
+      <TimeStamp Date="2023-07-26" CaptureStart="2023-07-26 T 07:11:18.3846170" CaptureEnd="2023-07-26 T 07:12:00.8626794" Duration="42.478" />
+      <License CountryID="66" OrgID="123" SiteID="6" />
+    </Summary>
+    <Sentence Structure="1" Format="1" />
+    <OSSettings>
+      <OSVersionInfo InfoSize="148" MajorVersion="10" MinorVersion="0" BuildNumber="19045" PlatformID="2" CSDVersion="" SystemType="64" ProductType="1" OS="OSName" Platform="Platform">
+        <!--
+					ProductType 1=WORKSTATION,2=DOMAIN_CONTROLLER,3=SERVER
+				-->
+      </OSVersionInfo>
+      <Resolution Horz="1366" Vert="768" />
+      <Image Height="768" Width="1366" />
+      <ScreenSettings BitsPerPixel="32" Color="0" Orientation="0" />
+      <MetricsInfo HorzSpacing="75" VertSpacing="75" TitleWrap="1" />
+    </OSSettings>
+    <TAPS>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <TAP Name="explorer.exe" ApplicationName="" Version="" Path="" EXEName="explorer.exe" />
+    </TAPS>
+    <IdleTimeInfo CaptureDuration="42.478">
+      <ExcludedAppInfo>
+        <ExcludedApp ExeName="EXPLORER.EXE" Duration="13.240" />
+      </ExcludedAppInfo>
+      <TacitInfo Duration="0.000" />
+      <ThinkTimeInfo Duration="0.000" />
+      <SystemIdleInfo Duration="0.000" />
+      <ProcessIdleInfo Duration="0.000" />
+    </IdleTimeInfo>
+    <NoiseInfo Steps="0" Duration="0.000" />
+    <KPPList>
+      <KPP id="kpp_cmp" value="" />
+      <KPP id="kpp_aht" value="" />
+      <KPP id="kpp_bct" value="" />
+      <KPP id="kpp_err" value="" />
+      <KPP id="kpp_ttc" value="" />
+    </KPPList>
+    <AutomatibilityReport>
+      <AutomationRate>64.26</AutomationRate>
+      <DataPointAutomationRate>0</DataPointAutomationRate>
+      <ValidationAutomationRate>99.62</ValidationAutomationRate>
+      <NavigationAutomationRate>100</NavigationAutomationRate>
+    </AutomatibilityReport>
+  </Header>
+  <GroupStep ID="1" Caption="FirefoxTest.gps" ParentID="1" Level="1" ProcessID="0" />
+  <GroupStep ID="2" Caption="Product Request — Mozilla Firefox" ParentID="1" Level="2" ProcessID="9176" Guid="ee1ab462-2d59-46d1-924c-9a8554c57546">
+    <DrawMarkRegion />
+    <Tacit />
+  </GroupStep>
+  <Step ID="3" Version="11." ParentID="2" Level="3" ActiveChannelID="0" AdaptorID="0" PacketID="1" ProcessID="9176" SessionID="9176" UID="1" EventType="" Validator="" AliasName="Product Request — Mozilla Firefox" BookMark="Start" HookMessage="6" ThreadID="11784" AudioFile="" Guid="fa3c933d-4275-4690-8653-a18eec633a64" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="0.000" DocArea="0" SecDefHashCode="7_7~FDlIDRkFuRvi3CmSVUP/6Q==" HashCodeRuleId="5" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:25.861" EndTime="07/26/2023 T 07:11:25.861" InternetTime="" LocalStartTime="07/26/2023 T 12:41:25.861" LocalEndTime="07/26/2023 T 12:41:25.861" StepDuration="7.477">
+        <IdleTimeInfo ActionDuration="7.477" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="10" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="0" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>WINDOWACTIVATE</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129509468" UserAction="" ClipData="" KeyCount="" IsDummyEvent="0" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Product Request — Mozilla Firefox" Type="client" Value="" Role="client" RoleID="10" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="WindowActivate" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="0" SPKeyWithData="" DefaultAction="" ClassIndex="" Help="" RoleInCurrentLanguage="client" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="1517872" Index="0" InfoFilledFromOMNI="0" IsDummyWindowActivate="0" DummyWindowName="" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>
+        </CaretPos>
+        <StateComplete>399441920</StateComplete>
+        <Location Left="-8" Top="-8" Right="1362" Bottom="724" />
+        <ClientLocation Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="Product Request — Mozilla Firefox" Value="" Role="window" RoleID="MozillaWindowClass" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="window">
+        <Location Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ClientLocation>-8,-8,1374,736</ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_6Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_6Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_6Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_6Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+    </ImageStore>
+    <Sentence Plain="Product Request — Mozilla Firefox screen is displayed." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Product Request — Mozilla Firefox&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; screen is displayed.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="WindowActivate" AdaptorID="0" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="" StepDelay="0" />
+      <ControlInfo ControlName="" RoleId="10" Role="client" UniqueID="" AutomationID="" ControlRectSC="" ControlRectCL="" ControlData="" ControlMouseCL="" LabelImage="" ControlImage="" ControlRect="" LabelRect="" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="MozillaWindowClass" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="" CONTROL_WINDOW_CLASS="" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="" Web_ScrollY="" Web_ScrollWidth="" Web_ScrollHeight="" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="" Web_OffsetHeight="" Web_ClientX="" Web_ClientY="" Web_ClientWidth="" Web_ClientHeight="" Web_ChildCount="" Web_TabIndex="" Web_IsEditable="" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="" Web_TagName="" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="" Web_IFrameFullCssPath="" Web_IFrameFullXPath="" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="4" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="2" ProcessID="9176" SessionID="9176" UID="2" EventType="" Validator="" AliasName="Partner Name" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="90342088-c7f1-4012-b6e1-a2861c7073b3" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="125.000" DocArea="0" SecDefHashCode="2_5_7_24_28~6/4bsZgw0+1AtBEURr8XnQ==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:30.782" EndTime="07/26/2023 T 07:11:30.782" InternetTime="" LocalStartTime="07/26/2023 T 12:41:30.782" LocalEndTime="07/26/2023 T 12:41:30.782" StepDuration="4.921">
+        <IdleTimeInfo ActionDuration="4.921" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="22347902" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="313" Right="556" Bottom="347" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="341" />
+          <Up X="126" Y="341" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="341" />
+          <Up X="126" Y="341" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129514328" UserAction="LeftClick" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Partner Name" Type="editable text" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Click" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>0,0</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="313" Right="556" Bottom="347" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_2.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_1280_4.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_1.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Click in Partner Name box." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Click in &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Partner Name&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Click" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="4921" />
+      <ControlInfo ControlName="Partner Name" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,313,556,347," ControlRectCL="121,313,556,347," ControlData="" ControlMouseCL="126,341" LabelImage="" ControlImage="FirefoxTest_CI_513_1.PNG" ControlRect="121,313,556,347," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" RelativeCSSPath="#partnerName" RelativeXPath="//*[@id=&quot;partnerName&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="5" Web_OffsetY="27" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="126" Web_ClientY="256" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerName" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="0" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="5" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="3" ProcessID="9176" SessionID="9176" UID="3" EventType="" Validator="" AliasName="Partner Name" BookMark="" HookMessage="1280" ThreadID="11784" AudioFile="" Guid="7139ce68-471b-4e48-9ae2-5d4d9e2e9a2f" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="12141.000" DocArea="0" SecDefHashCode="2_5_7_24_28~6/4bsZgw0+1AtBEURr8XnQ==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:31.208" EndTime="07/26/2023 T 07:11:31.562" InternetTime="" LocalStartTime="07/26/2023 T 12:41:31.208" LocalEndTime="07/26/2023 T 12:41:31.562" StepDuration="0.780" keystrokes="5">
+        <IdleTimeInfo ActionDuration="0.78" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="72" LPARAM="1" Style="399441920" TypedKey_En="" TypedKey_Locale="hello" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>TYPETEXT</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="313" Right="556" Bottom="347" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="System" Style="700~0~0~0" Size="12" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129514750" UserAction="KeyDown" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Partner Name" Type="KEYBOARD" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="TYPETEXT" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>hello</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>134,313</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="313" Right="556" Bottom="347" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="1">
+      <vp type="V" id="b47f45fb-77f6-467a-9626-a1b694245c5c" seq="1">
+        <item op="" stype="C">
+          <name>Partner Name_Rule_1</name>
+          <meta>
+            <control>Partner Name</control>
+            <role>42</role>
+            <app>firefox.exe</app>
+            <url>https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1</url>
+            <screen>Product Request — Mozilla Firefox</screen>
+            <region left="" top="" width="" height="" />
+          </meta>
+          <rpa>
+            <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+            <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16">
+              <Model Enabled="True">
+                <Properties Name="PartnerName3" />
+              </Model>
+            </GeneralInfo>
+            <ControlInfo ControlName="Partner Name" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,313,556,347," ControlRectCL="121,313,556,347," ControlData="hello" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_2.PNG" ControlRect="121,313,556,347," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" RelativeCSSPath="#partnerName" RelativeXPath="//*[@id=&quot;partnerName&quot;]" IEActiveTabCaption="" />
+            <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+            <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerName" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="0" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+          </rpa>
+          <rule id="14" value1="" value2="" regex="^[a-zA-Z ]+$" desc="" />
+          <atchs>
+            <atch type="audio" src="" />
+            <atch type="video" src="" />
+            <atch type="file" src="" />
+            <atch type="image" src="" />
+          </atchs>
+          <desc />
+          <actiononfailure type="0">
+            <message />
+          </actiononfailure>
+          <group />
+        </item>
+      </vp>
+    </vpeds>
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_4.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_4.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_4.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_4.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_CI_1280_2.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="In the Partner Name box, enter &quot;hello&quot;." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;In the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Partner Name&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box, enter "&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;hello&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;".&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16" StepDelay="426">
+        <Model Enabled="True">
+          <Properties Name="PartnerName3" />
+        </Model>
+      </GeneralInfo>
+      <ControlInfo ControlName="Partner Name" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,313,556,347," ControlRectCL="121,313,556,347," ControlData="hello" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_2.PNG" ControlRect="121,313,556,347," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" RelativeCSSPath="#partnerName" RelativeXPath="//*[@id=&quot;partnerName&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerName" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="0" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="6" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="4" ProcessID="9176" SessionID="9176" UID="4" EventType="" Validator="" AliasName="E-mail Address" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="9f3d16f9-49e4-4615-bdd3-99f22fdba23a" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="0.000" DocArea="0" SecDefHashCode="2_5_7_24_28~pr9TnUmKnLbImCREG6rALA==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:32.950" EndTime="07/26/2023 T 07:11:32.950" InternetTime="" LocalStartTime="07/26/2023 T 12:41:32.950" LocalEndTime="07/26/2023 T 12:41:32.950" StepDuration="1.388">
+        <IdleTimeInfo ActionDuration="1.388" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="27197566" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="387" Right="556" Bottom="421" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="415" />
+          <Up X="126" Y="415" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="415" />
+          <Up X="126" Y="415" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129516546" UserAction="LeftClick" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="E-mail Address" Type="editable text" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Click" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>164,322</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="387" Right="556" Bottom="421" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_5.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_5.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_5.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_1280_7.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_3.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Click in E-mail Address box." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Click in &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;E-mail Address&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Click" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="1388" />
+      <ControlInfo ControlName="E-mail Address" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,387,556,421," ControlRectCL="121,387,556,421," ControlData="" ControlMouseCL="126,415" LabelImage="" ControlImage="FirefoxTest_CI_513_3.PNG" ControlRect="121,387,556,421," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" RelativeCSSPath="#partnerEmail" RelativeXPath="//*[@id=&quot;partnerEmail&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="5" Web_OffsetY="27" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="126" Web_ClientY="330" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerEmail" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="1" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="7" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="5" ProcessID="9176" SessionID="9176" UID="5" EventType="" Validator="" AliasName="E-mail Address" BookMark="" HookMessage="1280" ThreadID="11784" AudioFile="" Guid="95cbab5b-66af-4f9a-a9f5-5058daa472fc" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="141.000" DocArea="0" SecDefHashCode="2_5_7_24_28~pr9TnUmKnLbImCREG6rALA==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:33.362" EndTime="07/26/2023 T 07:11:34.830" InternetTime="" LocalStartTime="07/26/2023 T 12:41:33.362" LocalEndTime="07/26/2023 T 12:41:34.830" StepDuration="1.880" keystrokes="15">
+        <IdleTimeInfo ActionDuration="1.88" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="72" LPARAM="1" Style="399441920" TypedKey_En="" TypedKey_Locale="hello@gmail.com" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>TYPETEXT</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="387" Right="556" Bottom="421" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="System" Style="700~0~0~0" Size="12" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129516921" UserAction="KeyDown" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="E-mail Address" Type="KEYBOARD" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="TYPETEXT" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>hello@gmail.com</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>134,387</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="387" Right="556" Bottom="421" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="1">
+      <vp type="V" id="a3d7d0f3-aba9-489a-9933-192616510833" seq="1">
+        <item op="" stype="C">
+          <name>E-mail Address_Rule_1</name>
+          <meta>
+            <control>E-mail Address</control>
+            <role>42</role>
+            <app>firefox.exe</app>
+            <url>https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1</url>
+            <screen>Product Request — Mozilla Firefox</screen>
+            <region left="" top="" width="" height="" />
+          </meta>
+          <rpa>
+            <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+            <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16">
+              <Model Enabled="True">
+                <Properties Name="EmailAddress5" />
+              </Model>
+            </GeneralInfo>
+            <ControlInfo ControlName="E-mail Address" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,387,556,421," ControlRectCL="121,387,556,421," ControlData="hello@gmail.com" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_4.PNG" ControlRect="121,387,556,421," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" RelativeCSSPath="#partnerEmail" RelativeXPath="//*[@id=&quot;partnerEmail&quot;]" IEActiveTabCaption="" />
+            <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+            <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerEmail" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="1" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+          </rpa>
+          <rule id="15" value1="" value2="" regex="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$" desc="" />
+          <atchs>
+            <atch type="audio" src="" />
+            <atch type="video" src="" />
+            <atch type="file" src="" />
+            <atch type="image" src="" />
+          </atchs>
+          <desc />
+          <actiononfailure type="0">
+            <message />
+          </actiononfailure>
+          <group />
+        </item>
+      </vp>
+    </vpeds>
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_7.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_7.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_7.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_7.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_CI_1280_4.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="In the E-mail Address box, enter &quot;hello@gmail.com&quot;." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;In the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;E-mail Address&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box, enter "&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;hello@gmail.com&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;".&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16" StepDelay="412">
+        <Model Enabled="True">
+          <Properties Name="EmailAddress5" />
+        </Model>
+      </GeneralInfo>
+      <ControlInfo ControlName="E-mail Address" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,387,556,421," ControlRectCL="121,387,556,421," ControlData="hello@gmail.com" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_4.PNG" ControlRect="121,387,556,421," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" RelativeCSSPath="#partnerEmail" RelativeXPath="//*[@id=&quot;partnerEmail&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerEmail" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="1" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="8" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="6" ProcessID="9176" SessionID="9176" UID="6" EventType="" Validator="" AliasName="Phone number" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="8b580ee9-5cfb-4f3f-b3e5-ea671d50a0ca" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="0.000" DocArea="0" SecDefHashCode="2_5_7_24_28~3J5s9GieRv5UCKczNVK89w==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:36.222" EndTime="07/26/2023 T 07:11:36.222" InternetTime="" LocalStartTime="07/26/2023 T 12:41:36.222" LocalEndTime="07/26/2023 T 12:41:36.222" StepDuration="1.392">
+        <IdleTimeInfo ActionDuration="1.392" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="32047230" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="461" Right="556" Bottom="495" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="489" />
+          <Up X="126" Y="489" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="489" />
+          <Up X="126" Y="489" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129519812" UserAction="LeftClick" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Phone number" Type="editable text" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Click" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>241,396</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="461" Right="556" Bottom="495" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_8.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_8.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_8.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_1280_10.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_5.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Click in Phone number box." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Click in &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Phone number&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Click" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="1392" />
+      <ControlInfo ControlName="Phone number" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,461,556,495," ControlRectCL="121,461,556,495," ControlData="" ControlMouseCL="126,489" LabelImage="" ControlImage="FirefoxTest_CI_513_5.PNG" ControlRect="121,461,556,495," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" RelativeCSSPath="#partnerPhone" RelativeXPath="//*[@id=&quot;partnerPhone&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="5" Web_OffsetY="27" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="126" Web_ClientY="404" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerPhone" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="2" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="9" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="7" ProcessID="9176" SessionID="9176" UID="7" EventType="" Validator="" AliasName="Phone number" BookMark="" HookMessage="1280" ThreadID="11784" AudioFile="" Guid="d7c0f906-a87d-405c-aad0-12c130c7a020" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="297.000" DocArea="0" SecDefHashCode="2_5_7_24_28~3J5s9GieRv5UCKczNVK89w==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:36.669" EndTime="07/26/2023 T 07:11:37.563" InternetTime="" LocalStartTime="07/26/2023 T 12:41:36.669" LocalEndTime="07/26/2023 T 12:41:37.563" StepDuration="1.341" keystrokes="10">
+        <IdleTimeInfo ActionDuration="1.341" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="57" LPARAM="1" Style="399441920" TypedKey_En="" TypedKey_Locale="9876543210" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>TYPETEXT</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="461" Right="556" Bottom="495" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="System" Style="700~0~0~0" Size="12" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129520203" UserAction="KeyDown" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Phone number" Type="KEYBOARD" Value="" Role="editable text" RoleID="42" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="TYPETEXT" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="editable text" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>9876543210</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>134,461</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="461" Right="556" Bottom="495" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="1">
+      <vp type="V" id="ee9b4dba-eec4-4515-b653-afa3767f0a52" seq="1">
+        <item op="" stype="C">
+          <name>Phone number_Rule_1</name>
+          <meta>
+            <control>Phone number</control>
+            <role>42</role>
+            <app>firefox.exe</app>
+            <url>https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1</url>
+            <screen>Product Request — Mozilla Firefox</screen>
+            <region left="" top="" width="" height="" />
+          </meta>
+          <rpa>
+            <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+            <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16">
+              <Model Enabled="True">
+                <Properties Name="Phonenumber7" />
+              </Model>
+            </GeneralInfo>
+            <ControlInfo ControlName="Phone number" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,461,556,495," ControlRectCL="121,461,556,495," ControlData="9876543210" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_6.PNG" ControlRect="121,461,556,495," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" RelativeCSSPath="#partnerPhone" RelativeXPath="//*[@id=&quot;partnerPhone&quot;]" IEActiveTabCaption="" />
+            <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+            <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerPhone" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="2" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+          </rpa>
+          <rule id="12" value1="" value2="" regex="^-?[0-9 ][0-9,\. ]+$" desc="" />
+          <atchs>
+            <atch type="audio" src="" />
+            <atch type="video" src="" />
+            <atch type="file" src="" />
+            <atch type="image" src="" />
+          </atchs>
+          <desc />
+          <actiononfailure type="0">
+            <message />
+          </actiononfailure>
+          <group />
+        </item>
+      </vp>
+      <vp type="V" id="64dfe346-75ba-4e12-9261-af02ca32aab4" seq="2">
+        <item op="" stype="C">
+          <name>Phone number_Rule_2</name>
+          <meta>
+            <control>Phone number</control>
+            <role>42</role>
+            <app>firefox.exe</app>
+            <url>https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1</url>
+            <screen>Product Request — Mozilla Firefox</screen>
+            <region left="" top="" width="" height="" />
+          </meta>
+          <rpa>
+            <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+            <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16">
+              <Model Enabled="True">
+                <Properties Name="Phonenumber7" />
+              </Model>
+            </GeneralInfo>
+            <ControlInfo ControlName="Phone number" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,461,556,495," ControlRectCL="121,461,556,495," ControlData="9876543210" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_6.PNG" ControlRect="121,461,556,495," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" RelativeCSSPath="#partnerPhone" RelativeXPath="//*[@id=&quot;partnerPhone&quot;]" IEActiveTabCaption="" />
+            <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+            <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerPhone" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="2" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+          </rpa>
+          <rule id="17" value1="" value2="" regex="^([+]{0,1})([0-9]{0,2})([-, ]{0,1})([0-9]{10})$" desc="" />
+          <atchs>
+            <atch type="audio" src="" />
+            <atch type="video" src="" />
+            <atch type="file" src="" />
+            <atch type="image" src="" />
+          </atchs>
+          <desc />
+          <actiononfailure type="0">
+            <message />
+          </actiononfailure>
+          <group />
+        </item>
+      </vp>
+    </vpeds>
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_10.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_10.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_10.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_TW_1280_10.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1280Img" FileName="FirefoxTest_CI_1280_6.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="In the Phone number box, enter &quot;9876543210&quot;." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;In the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Phone number&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; box, enter "&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;9876543210&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;".&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="TYPETEXT" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16" StepDelay="447">
+        <Model Enabled="True">
+          <Properties Name="Phonenumber7" />
+        </Model>
+      </GeneralInfo>
+      <ControlInfo ControlName="Phone number" RoleId="42" Role="editable text" UniqueID="" AutomationID="" ControlRectSC="121,461,556,495," ControlRectCL="121,461,556,495," ControlData="9876543210" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1280_6.PNG" ControlRect="121,461,556,495," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" RelativeCSSPath="#partnerPhone" RelativeXPath="//*[@id=&quot;partnerPhone&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="activate" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="" Web_ClientY="" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="partnerPhone" Web_TagName="INPUT" Web_ClassName="form-control frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="2" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="10" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="8" ProcessID="9176" SessionID="9176" UID="8" EventType="" Validator="" AliasName="License only" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="c8a04536-bf8e-4384-bfeb-a71c11f660c0" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="453.000" DocArea="0" SecDefHashCode="2_5_7_24_28~IPLQpBwrGLArKmt92SHkew==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:39.003" EndTime="07/26/2023 T 07:11:39.003" InternetTime="" LocalStartTime="07/26/2023 T 12:41:39.003" LocalEndTime="07/26/2023 T 12:41:39.003" StepDuration="1.440">
+        <IdleTimeInfo ActionDuration="1.44" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="46203006" Style="399441920" TypedKey_En="" TypedKey_Locale="1" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="697" Right="135" Bottom="711" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="705" />
+          <Up X="126" Y="705" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="705" />
+          <Up X="126" Y="705" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129522593" UserAction="LeftSelect" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="License only" Type="check box" Value="" Role="check box" RoleID="44" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Select" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="check box" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>1</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="697" Right="135" Bottom="711" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_11.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_11.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_11.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_514_12.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_7.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Select the License only check box." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Select the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;License only&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; check box.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Select" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="1440" />
+      <ControlInfo ControlName="License only" RoleId="44" Role="check box" UniqueID="" AutomationID="" ControlRectSC="121,697,135,711," ControlRectCL="121,697,135,711," ControlData="1" ControlMouseCL="126,705" LabelImage="" ControlImage="FirefoxTest_CI_513_7.PNG" ControlRect="121,697,135,711," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label&gt;input[type=checkbox]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[1]/label/input" RelativeCSSPath="#licOnly" RelativeXPath="//*[@id=&quot;licOnly&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="License only" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="check" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="0" Web_ScrollWidth="10" Web_ScrollHeight="10" Web_OffsetX="4" Web_OffsetY="6" Web_OffsetWidth="14" Web_OffsetHeight="14" Web_ClientX="126" Web_ClientY="620" Web_ClientWidth="10" Web_ClientHeight="10" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="check" Web_AncestorCount="" Web_Value="" Web_ID="licOnly" Web_TagName="INPUT" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="5" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label&gt;input[type=checkbox]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[1]/label/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="11" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="9" ProcessID="9176" SessionID="9176" UID="9" EventType="" Validator="" AliasName="Credit (30-45 days)" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="a68fda35-77d1-4278-b0cb-d17af9509aaa" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="704.000" DocArea="0" SecDefHashCode="2_5_7_24_28~lH3LYES+B9q14iqySaebmg==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:41.182" EndTime="07/26/2023 T 07:11:41.182" InternetTime="" LocalStartTime="07/26/2023 T 12:41:41.182" LocalEndTime="07/26/2023 T 12:41:41.182" StepDuration="2.179">
+        <IdleTimeInfo ActionDuration="2.179" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="40697982" Style="399441920" TypedKey_En="" TypedKey_Locale="1" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="613" Right="135" Bottom="627" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="621" />
+          <Up X="126" Y="621" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="621" />
+          <Up X="126" Y="621" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129524781" UserAction="LeftSelect" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Credit (30-45 days)" Type="radio button" Value="" Role="radio button" RoleID="45" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Select" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="radio button" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>1</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="613" Right="135" Bottom="627" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_13.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_13.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_13.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_514_14.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_8.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Select Credit (30-45 days)." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Select &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Credit (30-45 days)&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Select" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="2179" />
+      <ControlInfo ControlName="Credit (30-45 days)" RoleId="45" Role="radio button" UniqueID="" AutomationID="" ControlRectSC="121,613,135,627," ControlRectCL="121,613,135,627," ControlData="1" ControlMouseCL="126,621" LabelImage="" ControlImage="FirefoxTest_CI_513_8.PNG" ControlRect="121,613,135,627," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(7)&gt;div&gt;div:nth-child(2)&gt;label&gt;input[type=radio]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[7]/div/div[2]/label/input" RelativeCSSPath="#optCredit1" RelativeXPath="//*[@id=&quot;optCredit1&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="Credit (30-45 days)" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="select" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="payment" Web_Type="" Web_ScrollX="0" Web_ScrollY="204" Web_ScrollWidth="10" Web_ScrollHeight="10" Web_OffsetX="4" Web_OffsetY="6" Web_OffsetWidth="14" Web_OffsetHeight="14" Web_ClientX="126" Web_ClientY="536" Web_ClientWidth="10" Web_ClientHeight="10" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="check" Web_AncestorCount="" Web_Value="" Web_ID="optCredit1" Web_TagName="INPUT" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="8" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(7)&gt;div&gt;div:nth-child(2)&gt;label&gt;input[type=radio]" Web_IFrameFullXPath="/html/body/form/div[2]/div[2]/div[2]/div[7]/div/div[2]/label/input" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="12" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="10" ProcessID="9176" SessionID="9176" UID="10" EventType="" Validator="" AliasName="Product List" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="4d02cedc-35c2-46ff-9df9-7de42512aec0" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="594.000" DocArea="0" SecDefHashCode="2_5_7_24_28~MTdbsp6LkE63Ucvdk1LaDg==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:44.200" EndTime="07/26/2023 T 07:11:44.200" InternetTime="" LocalStartTime="07/26/2023 T 12:41:44.200" LocalEndTime="07/26/2023 T 12:41:44.200" StepDuration="3.018">
+        <IdleTimeInfo ActionDuration="3.018" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="24707198" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="121" Top="349" Right="556" Bottom="383" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="126" Y="377" />
+          <Up X="126" Y="377" />
+        </Screen>
+        <Client>
+          <Down X="126" Y="377" />
+          <Up X="126" Y="377" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129527796" UserAction="LeftClick" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Product List" Type="combo box" Value="" Role="combo box" RoleID="46" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Click" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="combo box" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="121" Top="349" Right="556" Bottom="383" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_15.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_15.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_15.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_15.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_9.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Click to drop down the Product List list." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Click to drop down the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Product List&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; list.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Click" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="3018" />
+      <ControlInfo ControlName="Product List" RoleId="46" Role="combo box" UniqueID="" AutomationID="" ControlRectSC="121,349,556,383," ControlRectCL="121,349,556,383," ControlData="" ControlMouseCL="126,377" LabelImage="" ControlImage="FirefoxTest_CI_513_9.PNG" ControlRect="121,349,556,383," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(3)&gt;div&gt;div:nth-child(4)&gt;select" XPath="/html/body/form/div[2]/div[3]/div[2]/div[4]/select" RelativeCSSPath="#ABCProducts" RelativeXPath="//*[@id=&quot;ABCProducts&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="Product List" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="click ancestor" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="864" Web_ScrollWidth="433" Web_ScrollHeight="32" Web_OffsetX="5" Web_OffsetY="27" Web_OffsetWidth="435" Web_OffsetHeight="34" Web_ClientX="126" Web_ClientY="292" Web_ClientWidth="433" Web_ClientHeight="32" Web_ChildCount="4" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="select" Web_AncestorCount="" Web_Value="" Web_ID="ABCProducts" Web_TagName="SELECT" Web_ClassName="form-control  frmControlWidth" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="0" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(3)&gt;div&gt;div:nth-child(4)&gt;select" Web_IFrameFullXPath="/html/body/form/div[2]/div[3]/div[2]/div[4]/select" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <DrawMarkRegion />
+    <Tacit />
+  </Step>
+  <Step ID="13" Version="11." ParentID="2" Level="3" ActiveChannelID="0" AdaptorID="1" PacketID="11" ProcessID="9176" SessionID="9176" UID="11" EventType="" Validator="" AliasName="--Select Product--" BookMark="" HookMessage="1284" ThreadID="11784" AudioFile="" Guid="8ba252dc-173e-4f71-82f0-5d29f3df725b" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="0.000" DocArea="0" SecDefHashCode="2_5_7_8~DLHw6qidYSQblqOAWS93Qg==" HashCodeRuleId="9" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:44.954" EndTime="07/26/2023 T 07:11:44.954" InternetTime="" LocalStartTime="07/26/2023 T 12:41:44.954" LocalEndTime="07/26/2023 T 12:41:44.954" StepDuration="0.754">
+        <IdleTimeInfo ActionDuration="0.754" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="40" LPARAM="22020097" Style="399441920" TypedKey_En="Down" TypedKey_Locale="Down" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>ALL</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="System" Style="700~0~0~0" Size="12" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129528468" UserAction="KeyDown" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="--Select Product--" Type="KEYBOARD" Value="" Role="list item" RoleID="34" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="KEYEVENT" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="16" SPKeyWithData="Down" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="list item" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="3145734" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>Down</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>3145734</StateComplete>
+        <Location Left="121" Top="388" Right="554" Bottom="414" />
+        <ClientLocation Left="121" Top="388" Right="554" Bottom="414" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="--Select Product--" Value="" Role="list" RoleID="33" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="list">
+        <Location Left="116" Top="379" Right="559" Bottom="502" />
+        <ClientLocation>116,379,559,502</ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="" Domain="" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_17.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_17.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_17.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_17.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_CI_1284_10.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Press Down key." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Press &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Down&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; key.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="" />
+      <GeneralInfo Event="KEYEVENT" AdaptorID="1" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="16" StepDelay="754" />
+      <ControlInfo ControlName="--Select Product--" RoleId="34" Role="list item" UniqueID="" AutomationID="" ControlRectSC="121,388,554,414," ControlRectCL="121,388,554,414," ControlData="Down" ControlMouseCL="" LabelImage="" ControlImage="FirefoxTest_CI_1284_10.PNG" ControlRect="121,388,554,414," LabelRect="" ClassName="MozillaWindowClass" IEActiveTabCaption="" IsWPFControl="" IsMSAAControl="" WindowID="" GUID="8ba252dc-173e-4f71-82f0-5d29f3df725b" WindowActivateID="" ParentID="" IFSControlName="" IFSRole="" TabFormID="" IsDataSourceInfo="" SelectedColumn="" SelectedRow="" IsTreeItem="" TreeItemIndex="" ComboboxIndex="" DotNetControlName="" DotNetControlType="" />
+      <ParentInfo ParentName="--Select Product--" ParentRoleId="33" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="click" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="" Web_ScrollY="" Web_ScrollWidth="" Web_ScrollHeight="" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="" Web_OffsetHeight="" Web_ClientX="" Web_ClientY="" Web_ClientWidth="" Web_ClientHeight="" Web_ChildCount="" Web_TabIndex="" Web_IsEditable="" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="" Web_TagName="" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="" Web_IFrameFullCssPath="" Web_IFrameFullXPath="" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="14" Version="11." ParentID="2" Level="3" ActiveChannelID="0" AdaptorID="1" PacketID="12" ProcessID="9176" SessionID="9176" UID="12" EventType="" Validator="" AliasName="ERP Enterprise Edition" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="a3e8d951-4455-4c66-9bf3-48e51986fbcc" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="938.000" DocArea="0" SecDefHashCode="7_7~hZRdqbDYvApNSUPAP/1x7A==" HashCodeRuleId="5" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:45.848" EndTime="07/26/2023 T 07:11:45.848" InternetTime="" LocalStartTime="07/26/2023 T 12:41:45.848" LocalEndTime="07/26/2023 T 12:41:45.848" StepDuration="0.894">
+        <IdleTimeInfo ActionDuration="0.894" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="1835009" Style="399441920" TypedKey_En="Enter" TypedKey_Locale="ERP Enterprise Edition" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="337" Y="427" />
+          <Up X="337" Y="427" />
+        </Screen>
+        <Client>
+          <Down X="337" Y="427" />
+          <Up X="337" Y="427" />
+        </Client>
+      </ClickPoints>
+      <Font Name="System" Style="700~0~0~0" Size="12" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129529453" UserAction="LeftSelect" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="ERP Enterprise Edition" Type="list item" Value="" Role="list item" RoleID="34" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Select" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="list item" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="3145734" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>ERP Enterprise Edition</Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>3145734</StateComplete>
+        <Location Left="121" Top="414" Right="554" Bottom="441" />
+        <ClientLocation Left="121" Top="414" Right="554" Bottom="441" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="ERP Enterprise Edition" Value="" Role="list" RoleID="33" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="list">
+        <Location Left="116" Top="379" Right="559" Bottom="502" />
+        <ClientLocation>116,379,559,502</ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_18.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_18.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_18.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_TW_1284_18.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_1284Img" FileName="FirefoxTest_CI_513_11.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="In the ERP Enterprise Edition list, select ERP Enterprise Edition." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;In the &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;ERP Enterprise Edition&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; list, select &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;ERP Enterprise Edition&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Select" AdaptorID="1" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="894" />
+      <ControlInfo ControlName="ERP Enterprise Edition" RoleId="34" Role="list item" UniqueID="" AutomationID="" ControlRectSC="121,414,554,441," ControlRectCL="121,414,554,441," ControlData="ERP Enterprise Edition" ControlMouseCL="337,427" LabelImage="" ControlImage="FirefoxTest_CI_513_11.PNG" ControlRect="121,414,554,441," LabelRect="" ClassName="MozillaWindowClass" IEActiveTabCaption="" IsWPFControl="" IsMSAAControl="" WindowID="" GUID="a3e8d951-4455-4c66-9bf3-48e51986fbcc" WindowActivateID="" ParentID="" IFSControlName="" IFSRole="" TabFormID="" IsDataSourceInfo="" SelectedColumn="" SelectedRow="" IsTreeItem="" TreeItemIndex="" ComboboxIndex="" DotNetControlName="" DotNetControlType="" />
+      <ParentInfo ParentName="ERP Enterprise Edition" ParentRoleId="33" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="click" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="" Web_ScrollY="" Web_ScrollWidth="" Web_ScrollHeight="" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="" Web_OffsetHeight="" Web_ClientX="" Web_ClientY="" Web_ClientWidth="" Web_ClientHeight="" Web_ChildCount="" Web_TabIndex="" Web_IsEditable="" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="" Web_TagName="" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="" Web_IFrameFullCssPath="" Web_IFrameFullXPath="" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="15" Version="11." ParentID="2" Level="3" ActiveChannelID="12" AdaptorID="12" PacketID="13" ProcessID="9176" SessionID="9176" UID="13" EventType="" Validator="" AliasName="Send Order" BookMark="" HookMessage="513" ThreadID="11784" AudioFile="" Guid="2ba92cff-56f7-4075-8296-a4b231f3a169" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="10515.000" DocArea="0" SecDefHashCode="2_5_7_24_28~QlzPg+BQhBdoT9NF5o+jdA==" HashCodeRuleId="11" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:47.560" EndTime="07/26/2023 T 07:11:47.560" InternetTime="" LocalStartTime="07/26/2023 T 12:41:47.560" LocalEndTime="07/26/2023 T 12:41:47.560" StepDuration="1.712">
+        <IdleTimeInfo ActionDuration="1.712" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="MozillaWindowClass" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="46334062" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>CLICK</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="105" Top="679" Right="205" Bottom="713" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="110" Y="707" />
+          <Up X="110" Y="707" />
+        </Screen>
+        <Client>
+          <Down X="110" Y="707" />
+          <Up X="110" Y="707" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129531140" UserAction="LeftClick" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Send Order" Type="push button" Value="" Role="push button" RoleID="43" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="Click" KBShortcut="" Desc="" MouseButton="Left" MouseStatus="1" SPKeyStatus="16" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="push button" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="105" Top="679" Right="205" Bottom="713" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource>Mouse</HighLevelSource>
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="10" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_19.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_19.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_19.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_513_19.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+      <ControlImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_CI_513_12.PNG" LocWithTolerance="" />
+      </ControlImage>
+    </ImageStore>
+    <Sentence Plain="Click Send Order." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;Click &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Send Order&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="Click" AdaptorID="12" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="Left" SPKeyStatus="16" StepDelay="1712" />
+      <ControlInfo ControlName="Send Order" RoleId="43" Role="push button" UniqueID="" AutomationID="" ControlRectSC="105,679,205,713," ControlRectCL="105,679,205,713," ControlData="" ControlMouseCL="110,707" LabelImage="" ControlImage="FirefoxTest_CI_513_12.PNG" ControlRect="105,679,205,713," LabelRect="" CSSPath="body&gt;form&gt;div&gt;div:nth-child(5)&gt;button" XPath="/html/body/form/div[2]/div[5]/button" RelativeCSSPath="#cmdsubmit" RelativeXPath="//*[@id=&quot;cmdsubmit&quot;]" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="10" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="press" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="Product Request — Mozilla Firefox" CONTROL_WINDOW_CLASS="MozillaWindowClass" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="0" Web_ScrollY="864" Web_ScrollWidth="98" Web_ScrollHeight="32" Web_OffsetX="5" Web_OffsetY="27" Web_OffsetWidth="100" Web_OffsetHeight="34" Web_ClientX="110" Web_ClientY="622" Web_ClientWidth="98" Web_ClientHeight="32" Web_ChildCount="0" Web_TabIndex="0" Web_IsEditable="inherit" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="cmdsubmit" Web_TagName="BUTTON" Web_ClassName="btn btn-primary" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="0" Web_IFrameFullCssPath="body&gt;form&gt;div&gt;div:nth-child(5)&gt;button" Web_IFrameFullXPath="/html/body/form/div[2]/div[5]/button" Web_FormID="" Web_FormAction="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+  <Step ID="16" Version="11." ParentID="2" Level="3" ActiveChannelID="0" AdaptorID="0" PacketID="14" ProcessID="" SessionID="" UID="14" EventType="" Validator="" AliasName="" BookMark="" HookMessage="1008" ThreadID="" AudioFile="" Guid="19c57253-e91f-4646-91f1-62c6500b04f8" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="0.000" DocArea="0" SecDefHashCode="2_5_7_8~v5l7foEe+Wmp2OgHUAGS5g==" HashCodeRuleId="9" ScreenHashCode="5~CjWyNfOeNm028LZbor8FUw==" ScreenHashCodeRuleId="16" IsStrayStep="0" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="explorer.exe" ApplicationName="" Version="" Path="" EXEName="explorer.exe" />
+      <Window Name="Excluded Application" Value="Excluded Application" Type="" Old_Name="Excluded Application" />
+      <TimeStamp StartTime="07/26/2023 T 07:11:59.169" EndTime="07/26/2023 T 07:12:00.800" InternetTime="" LocalStartTime="07/26/2023 T 12:41:59.169" LocalEndTime="07/26/2023 T 12:41:59.169" StepDuration="13.240">
+        <IdleTimeInfo ActionDuration="0" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="" Class="10" DialogName="Excluded Application" AliasName="" WPARAM="" LPARAM="" Style="" TypedKey_En="" TypedKey_Locale="" ExtStyle="0" Old_DialogName="Excluded Application">
+        <HighLevelEvent>EXCLUDEEVENT</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="" Top="" Right="" Bottom="" />
+        <ClientRegion Left="" Top="" Right="" Bottom="" />
+        <AppWindow Left="" Top="" Right="" Bottom="" />
+        <ActiveWindow Left="" Top="" Right="" Bottom="" />
+      </Regions>
+      <Cursor>
+        <Down ID="" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Screen>
+        <Client>
+          <Down X="0" Y="0" />
+          <Up X="0" Y="0" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="" UserAction="ExcludeEvent" ClipData="" KeyCount="" IsDummyEvent="" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="" Type="client" Value="" Role="client" RoleID="10" State="1" DialogName="Excluded Application" DialogPartialMatch="" Event="ExcludeEvent" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="0" SPKeyWithData="" DefaultAction="" ClassIndex="" Help="" RoleInCurrentLanguage="client" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="" ParentHandle="" Index="0" InfoFilledFromOMNI="0" Old_DialogName="Excluded Application">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>
+        </Hierarchy>
+        <CaretPos>
+        </CaretPos>
+        <StateComplete>
+        </StateComplete>
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation Left="" Top="" Right="" Bottom="" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="" Value="" Role="client" RoleID="" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="client">
+        <Location Left="" Top="" Right="" Bottom="" />
+        <ClientLocation>
+        </ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="" Domain="" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore />
+    <Sentence Plain="ExcludeEvent this item ." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;ExcludeEvent&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;this item&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; &lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="explorer.exe" Path="" DialogName="Excluded Application" IEDocURL="" />
+      <GeneralInfo Event="ExcludeEvent" AdaptorID="0" IsCitrix="" IsAI="" ProcessID="" MouseButton="" SPKeyStatus="" StepDelay="10000" />
+      <ControlInfo ControlName="" RoleId="10" Role="client" UniqueID="" AutomationID="" ControlRectSC="" ControlRectCL="" ControlData="" ControlMouseCL="" LabelImage="" ControlImage="" ControlRect="" LabelRect="" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="" CONTROL_WINDOW_CLASS="" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="" Web_ScrollY="" Web_ScrollWidth="" Web_ScrollHeight="" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="" Web_OffsetHeight="" Web_ClientX="" Web_ClientY="" Web_ClientWidth="" Web_ClientHeight="" Web_ChildCount="" Web_TabIndex="" Web_IsEditable="" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="" Web_TagName="" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="" Web_IFrameFullCssPath="" Web_IFrameFullXPath="" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="" />
+    </PlayBack>
+  </Step>
+  <GroupStep ID="17" Caption="Product Request — Mozilla Firefox" ParentID="1" Level="2" ProcessID="9176" Guid="74ef8981-1b91-4e06-bbba-4d8be833bbd0">
+    <Tacit />
+    <DrawMarkRegion />
+  </GroupStep>
+  <Step ID="18" Version="11." ParentID="17" Level="3" ActiveChannelID="0" AdaptorID="0" PacketID="15" ProcessID="9176" SessionID="9176" UID="15" EventType="" Validator="" AliasName="Product Request — Mozilla Firefox" BookMark="End" HookMessage="6" ThreadID="11784" AudioFile="" Guid="92bbf45e-e65e-4f2f-947d-841122c3b7c0" isKeyStep="False" KeyInformation="" ZoomLevel="1" ADPI="1" SystemDPI="1" InputIdleDuration="10515.000" DocArea="0" SecDefHashCode="7_7~FDlIDRkFuRvi3CmSVUP/6Q==" HashCodeRuleId="5" ScreenHashCode="5~POMvYwYY7dGpYljw+UbcrA==" ScreenHashCodeRuleId="16" IsStrayStep="2" ToBeReviewed="0" ReviewInfo2="">
+    <AudioToText />
+    <Info>
+      <TAP Name="firefox.exe" ApplicationName="Firefox" Version="115.0.2.8591" Path="C:\PROGRAM FILES (X86)\MOZILLA FIREFOX" EXEName="firefox.exe" />
+      <Window Name="Product Request — [ORGANIZATION]" Value="Product Request — Mozilla Firefox" Type="" Old_Name="Product Request — Mozilla Firefox" />
+      <TimeStamp StartTime="07/26/2023 T 07:12:00.862" EndTime="07/26/2023 T 07:12:00.862" InternetTime="" LocalStartTime="07/26/2023 T 12:42:00.862" LocalEndTime="" StepDuration="0.062">
+        <IdleTimeInfo ActionDuration="0.062" TacitDuration="0.000" ThinkDuration="0" IdleDuration="0.000" />
+      </TimeStamp>
+    </Info>
+    <Standard>
+      <Control ControlID="0" Name="" Caption="Product Request — Mozilla Firefox" Class="10" DialogName="Product Request — [ORGANIZATION]" AliasName="" WPARAM="1" LPARAM="46334062" Style="399441920" TypedKey_En="" TypedKey_Locale="" ExtStyle="256" Old_DialogName="Product Request — Mozilla Firefox">
+        <HighLevelEvent>WINDOWACTIVATE</HighLevelEvent>
+        <ExtraInfo>0</ExtraInfo>
+      </Control>
+      <Regions>
+        <ControlRegion Left="105" Top="679" Right="205" Bottom="713" />
+        <ClientRegion Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <AppWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ActiveWindow Left="-8" Top="-8" Right="1374" Bottom="736" />
+      </Regions>
+      <Cursor>
+        <Down ID="0" Name="" FileName="" ExtraInfo="" />
+        <Up ID="" Name="" FileName="" ExtraInfo="" />
+      </Cursor>
+      <ClickPoints>
+        <Screen>
+          <Down X="110" Y="707" />
+          <Up X="110" Y="707" />
+        </Screen>
+        <Client>
+          <Down X="110" Y="707" />
+          <Up X="110" Y="707" />
+        </Client>
+      </ClickPoints>
+      <Font Name="" Style="" Size="" Color="" Backcolor="" ExtraInfo="" />
+      <CheckWhat DialogNew="0" DialogClose="0" MsgBoxAppears="0" ControlDisabled="0" />
+      <Info EventTime="1129531140" UserAction="" ClipData="" KeyCount="" IsDummyEvent="0" />
+    </Standard>
+    <MSAA EventThread="">
+      <Control Name="Product Request — Mozilla Firefox" Type="client" Value="" Role="client" RoleID="10" State="1" DialogName="Product Request — [ORGANIZATION]" DialogPartialMatch="" Event="WindowActivate" KBShortcut="" Desc="" MouseButton="" MouseStatus="0" SPKeyStatus="0" SPKeyWithData="" DefaultAction="" ClassIndex="0" Help="" RoleInCurrentLanguage="client" UniqueControlID="" UIAControlID="" UIParentID="" UIControlType="" RumbaHidden="" IsAlien="0" ObjectID="" ChildID="" Handle="1517872" ParentHandle="1517872" Index="0" InfoFilledFromOMNI="0" IsDummyWindowActivate="0" DummyWindowName="" Old_DialogName="Product Request — Mozilla Firefox">
+        <Composite Index="0" ParentIndex="" OwnerDraw="" ChildState="" />
+        <Buddy BuddyThere="0" />
+        <ControlData>
+          <Value>
+          </Value>
+        </ControlData>
+        <Hierarchy>1517872</Hierarchy>
+        <CaretPos>214,470</CaretPos>
+        <StateComplete>399441920</StateComplete>
+        <Location Left="105" Top="679" Right="205" Bottom="713" />
+        <ClientLocation Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <HighLevelSource />
+        <ActiveTab>
+        </ActiveTab>
+      </Control>
+      <ParentControl Name="Product Request — Mozilla Firefox" Value="" Role="window" RoleID="MozillaWindowClass" KBShortcut="" Help="" State="1" Desc="" RoleInCurrentLanguage="window">
+        <Location Left="-8" Top="-8" Right="1374" Bottom="736" />
+        <ClientLocation>-8,-8,1374,736</ClientLocation>
+      </ParentControl>
+      <DropInfo>
+        <Control Name="" Value="" Handle="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </Control>
+        <ParentControl Name="" Value="" Role="" Desc="" KBShortcut="" DefaultAction="" State="" Help="">
+          <Location Left="0" Top="0" Right="0" Bottom="0" />
+        </ParentControl>
+        <Locations>
+          <Client Left="0" Top="0" Right="0" Bottom="0" />
+          <ParentClient Left="0" Top="0" Right="0" Bottom="0" />
+          <Drag Left="0" Top="0" Right="0" Bottom="0" />
+        </Locations>
+      </DropInfo>
+      <Specifics JAVAPacketID="" ChannelControlHandle="" StatusBarInfo="">
+        <SPData />
+      </Specifics>
+      <Info KeyWithMenu="" EventTime="" StatusBarData="" ChannelTAPName="">
+        <LocaleInfo LocaleID="" KBLayout="" InputLocaleID="" />
+      </Info>
+    </MSAA>
+    <vpeds isautovpadded="0" />
+    <IE DocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Domain="www.epiplex500.com" FramesURL="" WaitInfo="">
+      <Element Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" ElemType="" CascadedText="">
+        <Event Name="" DispID="" />
+        <Mouse Button="" />
+        <Frame No="" Name="" />
+      </Element>
+      <ParentElement Caption="" Class="" InnerText="" SrcIndex="" Label="" KBShortcut="" InnerHTML="" Select="" Title="" HREF="" ObjectID="" AlternateText="" SRC="" OffsetSize="" TabOrder="" SelectedItemIndex="" Type="" />
+      <Playback>
+        <Element Name="" Role="" Location="" Value="" KBShortcut="" Select="" State="" ControlData="" Class="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" ObjectID="" ElemType="" HREF="" SelectedItemIndex="" CascadedText="" InnerHTML="" />
+        <ParentElement Name="" Role="" Location="" Value="" KBShortcut="" Class="" State="" InnerText="" SrcIndex="" TabOrder="" OffsetSize="" SRC="" AlternateText="" Title="" Type="" HREF="" SelectedItemIndex="" CascadedText="" Select="" InnerHTML="" ObjectID="" />
+      </Playback>
+      <FindControl Name="" Role="" ID="" HREF="" LevelAboveElement="" SrcIndex="" ElemQuery="" ParentQuery="" />
+    </IE>
+    <ImageStore>
+      <epiLearnImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_2713_21.PNG" LocWithTolerance="0,0,1366,728," />
+      </epiLearnImage>
+      <FullImage>
+        <ImageData ID="1" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_2713_21.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="2" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_2713_21.PNG" LocWithTolerance="0,0,1366,728," />
+        <ImageData ID="3" Name="Product Request — Mozilla Firefox_513Img" FileName="FirefoxTest_TW_2713_21.PNG" LocWithTolerance="0,0,1366,728," />
+      </FullImage>
+    </ImageStore>
+    <Sentence Plain="Product Request — Mozilla Firefox screen is displayed." Modified="False">
+      <HTML>&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt;&lt;STRONG&gt;Product Request — Mozilla Firefox&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT FACE = "Arial"  SIZE = "2"&gt; screen is displayed.&lt;/FONT&gt;</HTML>
+    </Sentence>
+    <AddIn>
+      <SAP>
+        <Dialog Feedback="" />
+        <Control>
+          <ID />
+        </Control>
+        <Info MessageID="" MessageType="" MessageText="" TransactionCode="" ScreenNumber="" ClientNumber="0" />
+      </SAP>
+    </AddIn>
+    <SecurityInfo IsSecure="0" EncryptedDataInfo="" EncryptedControlData="" MaskData="" IsPassword="0" />
+    <CDTData />
+    <PlayBack>
+      <AppInfo ExeName="firefox.exe" Path="" DialogName="Product Request — Mozilla Firefox" IEDocURL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" />
+      <GeneralInfo Event="WindowActivate" AdaptorID="0" IsCitrix="" IsAI="" ProcessID="9176" MouseButton="" SPKeyStatus="" StepDelay="62" />
+      <ControlInfo ControlName="" RoleId="10" Role="client" UniqueID="" AutomationID="" ControlRectSC="" ControlRectCL="" ControlData="" ControlMouseCL="" LabelImage="" ControlImage="" ControlRect="" LabelRect="" IEActiveTabCaption="" />
+      <ParentInfo ParentName="" ParentRoleId="MozillaWindowClass" ParentRole="" ParentHeirarchy="" />
+      <AdditionalInfo UIA_CLASSNAME="" UIA_REQUIRED="" UIA_PROCESSID="" UIA_PASSWORD="" UIA_ORIENTATION="" UIA_OFFSCREEN="" UIA_LOCALIZED_CONTROL_TYPE="" UIA_HELPTEXT="" UIA_HEIGHT="" UIA_HAS_KEYBOARD_FOCUS="" UIA_ENABLED="" UIA_ACCESSKEY="" UIA_PARENT_LOCALIZED_CONTROL_TYPE="" UIA_PARENT_CONTROL_TYPE="" UIA_PARENT_NAME="" UIA_PARENT_CLASSNAME="" UIA_PARENT_AUTOMATIONID="" UIA_AUTOMATIONID="" UIA_Default_Action="" UIA_Match_Index="" UIA_FOREGROUND_WINDOW_TYPE="MozillaWindowClass" UIA_NAME="" UIA_CONTROL_TYPE="" CONTROL_ABSOLUTE_UNIQUE_ID_FOR_BOT_SCRIPT="" UIA_SCROLLITEMPATTREN="" TREE_ABSOLUTE_PATH_FOR_BOT_SCRIPT="" WHLL_STARTX="" WHLL_STARTY="" WHLL_ENDX="" WHLL_ENDY="" WHLL_NEXT_CONTROL_NAME="" WHLL_CURRENT_LABLE="" CONTROL_WINDOW_TEXT="" CONTROL_WINDOW_CLASS="" CONTROL_INDEX_PATH="" JAVA_INDEXINPARENT="" JAVA_CHILDCOUNT="" EXCEL_SHEET_NAME="" ACTUAL_CONTROL_TYPE="" ACTUAL_PARENT_CONTROL_TYPE="" CONTROL_KBSHORTCUT="" CONTROL_DESCRIPTION="" Web_Name="" Web_Type="" Web_ScrollX="" Web_ScrollY="" Web_ScrollWidth="" Web_ScrollHeight="" Web_OffsetX="" Web_OffsetY="" Web_OffsetWidth="" Web_OffsetHeight="" Web_ClientX="" Web_ClientY="" Web_ClientWidth="" Web_ClientHeight="" Web_ChildCount="" Web_TabIndex="" Web_IsEditable="" Web_ParentId="" Web_Source="" Web_Action="" Web_AncestorCount="" Web_Value="" Web_ID="" Web_TagName="" Web_ClassName="" Web_Placeholder="" Web_Alt="" Web_Title="" Web_IDX="" Web_IFrameFullCssPath="" Web_IFrameFullXPath="" Web_FormID="" Web_FormAction="" Web_AncestorID="" TabID="2" />
+    </PlayBack>
+    <Tacit />
+    <DrawMarkRegion />
+  </Step>
+</WorkFlow>
