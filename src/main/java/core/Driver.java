@@ -96,90 +96,26 @@ public class Driver {
 		Driver.searchContext = element;
 	}
 
-	/**
-	 * Finds a pane element with the given name.
-	 *
-	 * @param name The name of the pane to find.
-	 * @return The Element representing the found pane, or null if not found.
-	 */
-	public Element getPane(String name) {
-		Element paneElement = null;
-		try {
-			paneElement = checkPane(name);
-			if (paneElement != null) {
-				return paneElement;
-			} else {
-				List<Panel> panes = automation.getDesktopObjects();
-				Panel pane = panes.get(0);
-				for (int attempt = 0; attempt < 10; attempt++) {
-					if (pane.getName().startsWith(name)) {
-						paneElement = pane.getElement();
-						paneElement.setFocus();
-						return paneElement;
-					}
-					pane = getChildPane(pane);
+
+	private boolean checkNameCondition(Element element, String name)
+	{
+		if(element == null)
+			return false;
+		else
+		{
+			try {
+				if(element.getName().contains(name))
+				{
+					return true;
 				}
+			} catch (AutomationException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
-		} catch (AutomationException e) {
-			// Log or handle AutomationException specifically
-			e.printStackTrace();
-		} catch (Exception e) {
-			// Log or handle other exceptions specifically
-			e.printStackTrace();
 		}
-		return null;
+		return false;
 	}
-
-	/**
-	 * Checks if a pane with the given name exists.
-	 *
-	 * @param name The name of the pane to check.
-	 * @return The Element representing the found pane, or null if not found.
-	 */
-	public Element checkPane(String name) {
-		Element winElement = null;
-		try {
-			List<Panel> panes = automation.getDesktopObjects();
-			for (Panel pane : panes) {
-				if (pane.getName().startsWith(name)) {
-					winElement = pane.getElement();
-					break;
-				}
-			}
-		} catch (AutomationException e) {
-			// Log or handle AutomationException specifically
-			e.printStackTrace();
-		} catch (Exception e) {
-			// Log or handle other exceptions specifically
-			e.printStackTrace();
-		}
-		return winElement;
-	}
-
-	/**
-	 * Gets the child pane of the given pane.
-	 *
-	 * @param pane The parent pane to get the child pane from.
-	 * @return The child pane Element, or null if not found or an error occurred.
-	 */
-	public Panel getChildPane(Panel pane) {
-		Panel paneElement = null;
-		try {
-			List<AutomationBase> childPanes = pane.getChildren(false);
-			if (!childPanes.isEmpty()) {
-				Element element = childPanes.get(0).getElement();
-				paneElement = new Panel(new ElementBuilder(element));
-			}
-		} catch (AutomationException e) {
-			// Log or handle AutomationException specifically
-			e.printStackTrace();
-		} catch (Exception e) {
-			// Log or handle other exceptions specifically
-			e.printStackTrace();
-		}
-		return paneElement;
-	}
-
+	
 	/**
 	 * Finds a window element with the given name.
 	 *
@@ -187,53 +123,79 @@ public class Driver {
 	 * @return The Element representing the found window, or null if not found.
 	 */
 	public Element getWindow(String name) {
-		Element winElement = checkWindow(name);
-		if (winElement != null) {
-			return winElement;
-		} else {
-			try {
-				List<Window> windows = automation.getDesktopWindows();
-				for (int attempt = 0; attempt < 10; attempt++) {
-					Window window = getChildWindow(windows.get(0));
-					if (window.getName().startsWith(name)) {
-						winElement = window.getElement();
-						winElement.setFocus();
-						return winElement;
-					}
-				}
-			} catch (AutomationException e) {
-				// Log or handle AutomationException specifically
-				e.printStackTrace();
-			}
-		}
-		return null;
+	    try {
+	        List<Window> windows = automation.getDesktopWindows();
+
+	        for (int attempt = 0; attempt < 5; attempt++) {
+	            Window window = windows.get(attempt);
+	            Element winElement = findWindowElement(window, name);
+	            if (winElement != null) {
+	                winElement.setFocus();
+	                return winElement;
+	            }
+	        }
+	    } catch (AutomationException e) {
+	        // Log or handle AutomationException specifically
+	        e.printStackTrace();
+	    }
+	    return null;
 	}
 
+	private Element findWindowElement(Window window, String name) {
+	    Element windowElement = window.getElement();
+	    if (checkNameCondition(windowElement, name)) {
+	        return windowElement;
+	    }
+
+	    Window child = getChildWindow(window);
+	    if (child != null) {
+	        Element childElement = child.getElement();
+	        if (checkNameCondition(childElement, name)) {
+	            return childElement;
+	        }
+	    }
+	    return null;
+	}
+	
 	/**
-	 * Checks if a window with the given name exists.
+	 * Finds a pane element with the given name.
 	 *
-	 * @param name The name of the window to check.
-	 * @return The Element representing the found window, or null if not found.
+	 * @param name The name of the pane to find.
+	 * @return The Element representing the found pane, or null if not found.
 	 */
-	private Element checkWindow(String name) {
-		Element winElement = null;
-		try {
-			List<Window> windows = automation.getDesktopWindows();
-			for (Window window : windows) {
-				if (window.getName().startsWith(name)) {
-					winElement = window.getElement();
-					winElement.setFocus();
-					break;
-				}
-			}
-		} catch (AutomationException e) {
-			// Log or handle AutomationException specifically
-			e.printStackTrace();
-		} catch (Exception e) {
-			// Log or handle other exceptions specifically
-			e.printStackTrace();
-		}
-		return winElement;
+	public Element getPane(String name) {
+	    try {
+	    	List<Panel> panes = automation.getDesktopObjects();
+
+	        for (int attempt = 0; attempt < 5; attempt++) {
+	            Panel window = panes.get(attempt);
+	            Element winElement = findPaneElement(window, name);
+	            if (winElement != null) {
+	                winElement.setFocus();
+	                return winElement;
+	            }
+	        }
+	    } catch (AutomationException e) {
+	        // Log or handle AutomationException specifically
+	        e.printStackTrace();
+	    }
+	    return null;
+	}
+
+	private Element findPaneElement(Panel pane, String name) {
+	    Element paneElement = pane.getElement();
+	    if (checkNameCondition(paneElement, name)) {
+	        return paneElement;
+	    }
+
+	    Panel child = getChildPane(pane);
+	    if (child != null) {
+	        Element childElement = child.getElement();
+	        if (checkNameCondition(childElement, name)) {
+	            return childElement;
+	        }
+	    }
+	    return null;
 	}
 
 	/**
@@ -258,6 +220,30 @@ public class Driver {
 			e.printStackTrace();
 		}
 		return winElement;
+	}
+	
+	/**
+	 * Gets the child pane of the given pane.
+	 *
+	 * @param pane The parent pane to get the child pane from.
+	 * @return The child pane Element, or null if not found or an error occurred.
+	 */
+	public Panel getChildPane(Panel pane) {
+		Panel paneElement = null;
+		try {
+			List<AutomationBase> childPanes = pane.getChildren(false);
+			if (!childPanes.isEmpty()) {
+				Element element = childPanes.get(0).getElement();
+				paneElement = new Panel(new ElementBuilder(element));
+			}
+		} catch (AutomationException e) {
+			// Log or handle AutomationException specifically
+			e.printStackTrace();
+		} catch (Exception e) {
+			// Log or handle other exceptions specifically
+			e.printStackTrace();
+		}
+		return paneElement;
 	}
 
 	/**

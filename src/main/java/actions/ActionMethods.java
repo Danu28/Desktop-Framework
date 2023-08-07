@@ -12,6 +12,7 @@ import core.Application;
 import core.Driver;
 import core.EventFailException;
 import core.SikuliElement;
+import core.UIElement;
 import epiplex.Capture;
 import epiplex.PerformanceUtils;
 import epiplex.RemoteClient;
@@ -680,8 +681,9 @@ public class ActionMethods {
 			}
 			Driver.searchContext = element;
 			Driver.searchContext.setFocus();
-			reportLogger.info(config.getPassMarkUp("focusWindow " + windowTitle + " successfully"));
+			new UIElement(element).highlight(1);
 			eventStatus = true;
+			reportLogger.info(config.getPassMarkUp("focusWindow " + windowTitle + " successfully"));
 		} catch (Exception e) {
 			reportLogger.info(config.getFailMarkUp("focusWindow " + windowTitle + " failed"));
 			eventStatus = false;
@@ -699,8 +701,9 @@ public class ActionMethods {
 			Element element = elementFinder.getPane(paneTitle, Settings.FIND_WAIT);
 			Driver.searchContext = element;
 			element.setFocus();
-			reportLogger.info(config.getPassMarkUp("focusPane " + paneTitle + " successfully"));
+			new UIElement(element).highlight(1);
 			eventStatus = true;
+			reportLogger.info(config.getPassMarkUp("focusPane " + paneTitle + " successfully"));
 		} catch (Exception e) {
 			reportLogger.info(config.getFailMarkUp("focusPane " + paneTitle + " failed"));
 			eventStatus = false;
